@@ -1,0 +1,12 @@
+# Exclure complètement les dossiers de plateformes natives
+/android/
+/ios/
+/linux/
+/macos/
+/windows/
+/web/
+/build/
+
+.projet_flutter_complet.txt
+.script_flutterfire.txt
+.script_pwsh.txt

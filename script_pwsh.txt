@@ -1,0 +1,72 @@
+if (-not (Test-Path -LiteralPath "pubspec.yaml")) {
+    throw "Erreur : ouvre PowerShell dans le dossier qui contient pubspec.yaml."
+}
+
+$root = (Get-Location).Path
+$output = Join-Path $root "projet_flutter_complet.txt"
+
+$extensions = @(
+    ".dart", ".yaml", ".yml", ".json", ".xml", ".gradle", ".kts",
+    ".kt", ".java", ".swift", ".m", ".mm", ".h", ".plist",
+    ".html", ".css", ".js", ".ts", ".md", ".txt", ".arb",
+    ".properties", ".xcconfig", ".pbxproj", ".entitlements",
+    ".storyboard", ".xcscheme", ".sh", ".bat", ".cmd", ".ps1",
+    ".py", ".rb", ".podspec", ".lock", ".svg"
+)
+
+$specialNames = @(
+    "Podfile", "Gemfile", "Makefile", "gradlew",
+    ".gitignore", ".gitattributes", ".metadata"
+)
+
+$allFiles = @(
+    Get-ChildItem -LiteralPath $root -Recurse -File -Force -ErrorAction SilentlyContinue |
+    Where-Object {
+        $_.FullName -notmatch '\.git|\.dart_tool|\.gradle|\.idea|build|node_modules|Pods|DerivedData|\.symlinks[\\/]' -and
+        $_.Name -notmatch '^(\.env($|\.)|projet_flutter_complet\.txt$|local\.properties$|key\.properties$|gradle\.properties$|google-services\.json$|GoogleService-Info\.plist$|credentials\.json$|secrets\.json$)' -and
+        $_.Name -notmatch '\.(keystore|jks|p12|pfx|pem|key|mobileprovision)$'
+    } |
+    Sort-Object FullName
+)
+
+$textFiles = @(
+    $allFiles | Where-Object {
+        ($extensions -contains $_.Extension) -or
+        ($specialNames -contains $_.Name)
+    }
+)
+
+$writer = [System.IO.StreamWriter]::new($output, $false)
+
+try {
+    $writer.WriteLine("=== LISTE DES FICHIERS DU PROJET ===")
+
+    foreach ($file in $allFiles) {
+        $relative = $file.FullName.Substring($root.Length + 1)
+        $writer.WriteLine($relative)
+    }
+
+    $writer.WriteLine()
+    $writer.WriteLine("=== CONTENU DES FICHIERS TEXTE ===")
+
+    foreach ($file in $textFiles) {
+        $relative = $file.FullName.Substring($root.Length + 1)
+        $writer.WriteLine()
+        $writer.WriteLine("========== DEBUT : $relative ==========")
+
+        try {
+            $writer.WriteLine([System.IO.File]::ReadAllText($file.FullName))
+        }
+        catch {
+            $writer.WriteLine("Lecture impossible : $($_.Exception.Message)")
+        }
+
+        $writer.WriteLine("========== FIN : $relative ==========")
+    }
+}
+finally {
+    $writer.Close()
+}
+
+Write-Host "Fichier cree : $output"
+Write-Host "Fichiers texte inclus : $($textFiles.Count)"

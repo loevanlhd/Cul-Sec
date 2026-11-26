@@ -1,0 +1,60 @@
+# Configuration de l'analyseur statique pour l'application Cul Sec.
+#
+# Deux niveaux de règles :
+#   - `errors`  : comportements à traiter comme des échecs (ex. Future non
+#                 attendu qui peut masquer une écriture disque manquée).
+#   - `rules`   : conventions de style et de robustesse.
+#
+# Volontairement mesurée : les règles très strictes (`strict-casts`,
+# `strict-inference`) génèrent beaucoup de bruit sur un projet déjà écrit.
+# Elles sont activables une fois le code assaini.
+
+include: package:flutter_lints/flutter.yaml
+
+analyzer:
+  exclude:
+    - build/**
+    - android/**
+    - ios/**
+    - web/**
+    - windows/**
+    - macos/**
+    - linux/**
+
+  errors:
+    # Un Future non attendu cache souvent une écriture manquée ou une
+    # erreur silencieuse. On le traite comme une erreur d'analyse.
+    unawaited_futures: error
+    # Un `print` oublié en production est une fuite d'information.
+    avoid_print: warning
+
+linter:
+  rules:
+    # --- Robustesse -------------------------------------------------------
+    # Empêche les oublis de `await` dans les méthodes qui écrivent.
+    unawaited_futures: true
+    # Interdit `print` — utilise `debugPrint` ou un logger.
+    avoid_print: true
+    # Force la déclaration explicite du type de retour : facilite la
+    # lecture, et évite de renvoyer accidentellement `null`.
+    always_declare_return_types: true
+
+    # --- Style ------------------------------------------------------------
+    # Une virgule finale après le dernier argument d'un littéral multi-ligne :
+    # le formatter peut alors réorganiser proprement.
+    require_trailing_commas: true
+    # `super.key` plutôt que `Key? key : super(key: key)`.
+    use_super_parameters: true
+
+    # --- Performance ------------------------------------------------------
+    # Préfère les constructeurs `const` quand c'est possible : réduit le
+    # travail de rebuild.
+    prefer_const_constructors: true
+    prefer_const_declarations: true
+    # Détecte les `Container` qui ne portent qu'un `color` : `ColoredBox`
+    # est plus léger.
+    use_colored_box: true
+    # Idem pour `DecoratedBox` sans enfant.
+    use_decorated_box: true
+    # Un `SizedBox` sans enfant est le bon outil pour créer un espace.
+    sized_box_for_whitespace: true

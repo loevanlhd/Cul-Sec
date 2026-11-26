@@ -1,0 +1,2567 @@
+{
+  "mode": "action_ou_verite",
+  "version": 6,
+  "maxGorgeesParTour": 3,
+  "entrees": [
+    {
+      "id": "av_a106",
+      "texte": "Décris à voix haute la dernière fois où tu as eu envie de quelqu’un. Sans mentir.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a107",
+      "texte": "Regarde la personne à ta gauche dans les yeux pendant trente secondes. Interdiction de sourire.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a108",
+      "texte": "Envoie « je pense à toi » à la dernière personne avec qui tu as flirté. Tu as trente secondes.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a109",
+      "texte": "Chuchote à l’oreille de ton voisin de droite ce que tu lui trouves de plus attirant. Personne d’autre n’écoute.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a110",
+      "texte": "Raconte ton premier baiser. En détail. Le groupe décide si tu as le droit de passer.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a111",
+      "texte": "Mime au groupe, sans parler, une chose qui te fait craquer chez quelqu’un.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a112",
+      "texte": "Décris la tenue la plus osée que tu aies portée en soirée. Précise l’occasion.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a113",
+      "texte": "Fais un compliment sensuel, sincère, à chaque joueur dans les yeux.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a114",
+      "texte": "Imite le gémissement de quelqu’un de la pièce. Le groupe doit deviner qui.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a115",
+      "texte": "Raconte ta pire expérience de drague, sans rien omettre.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "gene",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a116",
+      "texte": "Échange un accessoire (bijou, montre, chaussure) avec ton voisin de gauche pour trois tours.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a117",
+      "texte": "Laisse ton voisin de gauche choisir une position dans laquelle tu passeras le prochain tour.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a118",
+      "texte": "Dis à voix haute laquelle des personnes présentes tu embrasserais si tu devais choisir.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a119",
+      "texte": "Appelle ton ou ta partenaire et dis-lui quelque chose de coquin, sans être explicite devant le groupe.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a120",
+      "texte": "Montre à tout le monde la photo la plus suggestive de ta galerie. Ou bois triple.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a121",
+      "texte": "Fais un strip-tease de trente secondes sur la musique que le groupe choisit.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a122",
+      "texte": "Raconte ton fantasme de lieu. En détail, comme si tu y étais.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a123",
+      "texte": "Dis à voix haute le prénom de la dernière personne qui t’a fait fantasmer.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a124",
+      "texte": "Laisse ton voisin écrire un message de son choix et l’envoyer à ton crush.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a125",
+      "texte": "Danse un slow avec la personne que le groupe désigne.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a126",
+      "texte": "Embrasse la joue de la personne à ta droite, ou le cou de la personne de ton choix.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a127",
+      "texte": "Décris en trois adjectifs le lit de ton ou ta partenaire.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a128",
+      "texte": "Raconte la chose la plus osée que tu aies faite en public, sans filtre.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a129",
+      "texte": "Assieds-toi sur les genoux de la personne à ta gauche pour les deux prochains tours.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a130",
+      "texte": "Révèle le prénom de la personne que tu as le plus désirée cette année.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a131",
+      "texte": "Montre à ton voisin de droite tes trois derniers messages envoyés. À lui seul.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "gene",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a132",
+      "texte": "Fais un massage des épaules à la personne à ta droite pendant soixante secondes.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a133",
+      "texte": "Raconte une chose que tu as faite au lit et que tu n’as jamais dite à personne.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a134",
+      "texte": "Décris la tenue idéale que tu aimerais voir tomber chez quelqu’un.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a135",
+      "texte": "Écris un message ambigu à la personne qui te plaît le plus dans cette pièce. Montre-le à elle seule.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a136",
+      "texte": "Choisis la personne du groupe avec qui tu passerais une nuit sans conséquence. Justifie.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a137",
+      "texte": "Donne ton plus grand turn-on en une seule phrase. Pas plus.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a138",
+      "texte": "Regarde la personne à ta droite et dis-lui exactement ce qui te plaît chez elle.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a139",
+      "texte": "Envoie un vocal de quinze secondes à ton crush en chuchotant. Le groupe valide le ton.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a140",
+      "texte": "Dis à voix haute une chose que tu n’as jamais avouée à personne sur ta vie intime.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a141",
+      "texte": "Imite une scène érotique de film, avec le joueur que le groupe choisit comme partenaire.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a142",
+      "texte": "Révèle l’endroit le plus fou où tu as fait l’amour.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a143",
+      "texte": "Laisse le groupe t’écrire un statut pour les réseaux. Tu le postes pendant une heure.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "gene",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a144",
+      "texte": "Décris la personne de la pièce que tu trouves la plus attirante. Justifie sans mentir.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a145",
+      "texte": "Fais un body shot sur la personne de ton choix, avec le shooter du groupe.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a146",
+      "texte": "Raconte la première fois où tu as eu envie de quelqu’un. En détail.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a147",
+      "texte": "Dis à ton voisin de droite ce que tu ferais si vous étiez seuls ce soir.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a148",
+      "texte": "Fais une déclaration sensuelle à la personne en face de toi. Interdiction de rire.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a149",
+      "texte": "Révèle le prénom de ton premier amour et raconte tout ce que tu as ressenti.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a150",
+      "texte": "Raconte une chose que tu as faite par désir et que tu regrettes encore.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "profond",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a151",
+      "texte": "Échange ton t-shirt avec la personne à ta gauche pour les trois prochains tours.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a152",
+      "texte": "Décris ton type idéal en trois points. Le groupe vérifie qui correspond le mieux.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a153",
+      "texte": "Révèle le dernier fantasme que tu as eu en pensant à quelqu’un présent ce soir.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a154",
+      "texte": "Dis à voix haute le prénom de la personne que tu as le plus désirée dans ta vie.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a155",
+      "texte": "Laisse ton voisin de droite te poser une seule question intime. Tu dois répondre honnêtement.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a156",
+      "texte": "Raconte la nuit la plus mémorable de ta vie. Précise ce qui l’a rendue unique.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a157",
+      "texte": "Fais un compliment osé à chaque joueur. Sans mentir. En le regardant dans les yeux.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a158",
+      "texte": "Dis à voix haute la chose la plus chaude qu’on t’ait dite.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a159",
+      "texte": "Décris en détail la dernière fois où quelqu’un t’a vraiment fait de l’effet. Sans nommer.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a160",
+      "texte": "Fais deviner au groupe, en mime, ton fantasme le plus soft. Aucun mot autorisé.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a161",
+      "texte": "Envoie un message à la personne qui te plaît le plus dans cette pièce. Le groupe valide le texte.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a162",
+      "texte": "Décris l’endroit où tu aimerais être embrassé pour la première fois par quelqu’un ici.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a163",
+      "texte": "Raconte la fois où tu as le plus eu honte de ton corps. Le groupe a le droit de réagir.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "gene",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a164",
+      "texte": "Regarde la personne à ta gauche et dis-lui une chose que tu as toujours eue envie de lui dire.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a165",
+      "texte": "Fais un compliment en trois mots à chaque joueur. Court, sincère, sensuel.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v096",
+      "texte": "Combien de personnes as-tu embrassées dans ta vie ? Le vrai chiffre.",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v097",
+      "texte": "Quel est l’endroit le plus insolite où tu as fait l’amour ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v098",
+      "texte": "Qui, dans cette pièce, embrasserais-tu sans hésiter ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v099",
+      "texte": "À quand remonte ta dernière fois ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v100",
+      "texte": "As-tu déjà envoyé une photo intime à quelqu’un ? À qui ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v101",
+      "texte": "Quel est ton plus grand fantasme, jamais réalisé ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v102",
+      "texte": "Combien de personnes as-tu eues dans ton lit en même temps ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v103",
+      "texte": "Quel est le prénom de la personne que tu as le plus désirée ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v104",
+      "texte": "Quelle est la chose la plus osée que tu aies faite en public ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v105",
+      "texte": "As-tu déjà simulé ? Combien de fois ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v106",
+      "texte": "Quel est le lieu le plus risqué où tu es allé trop loin ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v107",
+      "texte": "As-tu déjà fantasmé sur quelqu’un présent ce soir ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v108",
+      "texte": "Quel est ton plus gros tabou, celui que tu n’essaierais jamais ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v109",
+      "texte": "Combien de temps es-tu resté sans relations ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v110",
+      "texte": "Quelle est la chose la plus douce qu’on t’ait murmurée à l’oreille ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v111",
+      "texte": "As-tu déjà trompé quelqu’un ? Raconte.",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v112",
+      "texte": "Quel est ton jouet préféré ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v113",
+      "texte": "Quelle est la partie de ton corps dont tu es le plus fier ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v114",
+      "texte": "Quelle est la personne la plus âgée avec qui tu as flirté ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v115",
+      "texte": "Combien de fois par semaine penses-tu au sexe ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v116",
+      "texte": "Quelle position préfères-tu ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v117",
+      "texte": "Quel est ton plus gros turn-off ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v118",
+      "texte": "Quelle est la chose la plus étrange qui t’ait excité ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v119",
+      "texte": "As-tu déjà fait l’amour dans un lieu public ? Où ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v120",
+      "texte": "Quel est le compliment le plus hot qu’on t’ait fait ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v121",
+      "texte": "Combien de personnes t’ont déjà vu nu ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v122",
+      "texte": "As-tu déjà utilisé une application de rencontre ? Avec quel succès ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v123",
+      "texte": "Quelle est la personne dans la pièce que tu trouves la plus séduisante ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v124",
+      "texte": "Quelle est ta position préférée pour dormir après ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v125",
+      "texte": "Quelle est la chose la plus gênante qui te soit arrivée au lit ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "gene",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v126",
+      "texte": "As-tu déjà fait l’amour sous la douche ? Avec qui ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v127",
+      "texte": "Quelle est la chose la plus folle que tu aies faite par désir ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v128",
+      "texte": "As-tu déjà eu une aventure avec quelqu’un de plus jeune que toi ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v129",
+      "texte": "Quelle est la chose la plus osée que tu aies dite pendant l’acte ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v130",
+      "texte": "As-tu déjà envoyé un message coquin au mauvais destinataire ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "gene",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v131",
+      "texte": "Quel est ton pire souvenir au lit ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v132",
+      "texte": "Quelle est la tenue qui te fait le plus d’effet sur quelqu’un ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v133",
+      "texte": "As-tu déjà menti sur ton nombre de partenaires ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v134",
+      "texte": "Quelle est la personne que tu as le plus désirée sans jamais lui dire ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v135",
+      "texte": "Quel est ton plus grand fantasme avec la personne à ta gauche ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v136",
+      "texte": "As-tu déjà fait l’amour dans un endroit interdit ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v137",
+      "texte": "Quelle est la chose la plus douce qu’on t’ait dite pendant l’acte ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v138",
+      "texte": "Combien de personnes as-tu embrassées en une seule soirée ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v139",
+      "texte": "Quel est ton plus gros fantasme de couple ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v140",
+      "texte": "As-tu déjà fait l’amour dans l’eau ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v141",
+      "texte": "As-tu déjà eu envie de quelqu’un présent dans cette pièce ? Qui ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v142",
+      "texte": "Quelle est la chose la plus intime que tu aies partagée avec un inconnu ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v143",
+      "texte": "Quel est le prénom que tu n’aurais jamais dû prononcer au lit ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "gene",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v144",
+      "texte": "Quelle est la chose la plus chaude qu’on t’ait envoyée par message ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v145",
+      "texte": "Combien de personnes as-tu bloquées après une nuit ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v146",
+      "texte": "As-tu déjà couché avec quelqu’un que tu n’aimais pas ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v147",
+      "texte": "Quelle est la personne de la pièce que tu embrasserais si personne ne le savait jamais ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v148",
+      "texte": "Quelle est la chose la plus romantique qu’on t’ait faite ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v149",
+      "texte": "As-tu déjà fait l’amour dans la voiture ? Où et avec qui ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v150",
+      "texte": "Quel est ton plus grand fantasme refoulé ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v151",
+      "texte": "Quelle est la chose la plus osée que tu aies demandée à quelqu’un ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v152",
+      "texte": "As-tu déjà raconté un fantasme qui n’était pas le tien ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v153",
+      "texte": "Quelle est la nuit que tu referais sans hésiter ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v154",
+      "texte": "Quelle est la chose que tu n’as jamais osé demander au lit ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v155",
+      "texte": "Quelle est la personne qui te fait le plus d’effet dans cette pièce ? Justifie.",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a001",
+      "texte": "Imite quelqu’un du groupe jusqu’à ce qu’on devine de qui il s’agit.",
+      "type": "action",
+      "intensite": "soft",
+      "categorie": "amis",
+      "gorgees": 1
+    },
+    {
+      "id": "av_a002",
+      "texte": "Parle avec un accent de ton choix jusqu’à ton prochain tour.",
+      "type": "action",
+      "intensite": "soft",
+      "categorie": "fete",
+      "gorgees": 1
+    },
+    {
+      "id": "av_a003",
+      "texte": "Danse quinze secondes sans musique, avec conviction.",
+      "type": "action",
+      "intensite": "soft",
+      "categorie": "fete",
+      "gorgees": 1
+    },
+    {
+      "id": "av_a004",
+      "texte": "Fais un compliment sincère à chaque personne présente.",
+      "type": "action",
+      "intensite": "soft",
+      "categorie": "amis",
+      "gorgees": 1
+    },
+    {
+      "id": "av_a005",
+      "texte": "Raconte une blague. Si personne ne rit, tu bois.",
+      "type": "action",
+      "intensite": "soft",
+      "categorie": "fete",
+      "gorgees": 1
+    },
+    {
+      "id": "av_a006",
+      "texte": "Prends la pose la plus dramatique possible et tiens-la dix secondes.",
+      "type": "action",
+      "intensite": "soft",
+      "categorie": "fete",
+      "gorgees": 1
+    },
+    {
+      "id": "av_a007",
+      "texte": "Chante le refrain de la dernière chanson que tu as écoutée.",
+      "type": "action",
+      "intensite": "soft",
+      "categorie": "fete",
+      "gorgees": 1
+    },
+    {
+      "id": "av_a008",
+      "texte": "Parle sans utiliser la lettre E jusqu’à ton prochain tour.",
+      "type": "action",
+      "intensite": "soft",
+      "categorie": "general",
+      "gorgees": 1
+    },
+    {
+      "id": "av_a009",
+      "texte": "Fais dix pompes en comptant à voix haute dans une autre langue.",
+      "type": "action",
+      "intensite": "soft",
+      "categorie": "general",
+      "gorgees": 1
+    },
+    {
+      "id": "av_a010",
+      "texte": "Laisse ton voisin de droite choisir ta prochaine gorgée.",
+      "type": "action",
+      "intensite": "soft",
+      "categorie": "amis",
+      "gorgees": 1
+    },
+    {
+      "id": "av_a011",
+      "texte": "Imite le cri de trois animaux. Le groupe doit tous les deviner.",
+      "type": "action",
+      "intensite": "soft",
+      "categorie": "fete",
+      "gorgees": 1
+    },
+    {
+      "id": "av_a012",
+      "texte": "Tiens en équilibre sur un pied jusqu’à ton prochain tour.",
+      "type": "action",
+      "intensite": "soft",
+      "categorie": "general",
+      "gorgees": 1
+    },
+    {
+      "id": "av_a013",
+      "texte": "Parle uniquement en chantant pendant deux tours.",
+      "type": "action",
+      "intensite": "soft",
+      "categorie": "fete",
+      "gorgees": 1
+    },
+    {
+      "id": "av_a014",
+      "texte": "Fais le tour de la pièce en marchant comme un mannequin.",
+      "type": "action",
+      "intensite": "soft",
+      "categorie": "fete",
+      "gorgees": 1
+    },
+    {
+      "id": "av_a015",
+      "texte": "Prends un selfie avec la grimace la plus laide possible.",
+      "type": "action",
+      "intensite": "soft",
+      "categorie": "gene",
+      "gorgees": 1
+    },
+    {
+      "id": "av_a016",
+      "texte": "Raconte ton plus beau souvenir avec la personne à ta gauche.",
+      "type": "action",
+      "intensite": "soft",
+      "categorie": "amis",
+      "gorgees": 1
+    },
+    {
+      "id": "av_a017",
+      "texte": "Invente un slogan publicitaire pour la boisson que tu tiens.",
+      "type": "action",
+      "intensite": "soft",
+      "categorie": "fete",
+      "gorgees": 1
+    },
+    {
+      "id": "av_a018",
+      "texte": "Fais deviner un film en trois mots seulement.",
+      "type": "action",
+      "intensite": "soft",
+      "categorie": "general",
+      "gorgees": 1
+    },
+    {
+      "id": "av_a019",
+      "texte": "Donne ton meilleur conseil de vie en dix secondes chrono.",
+      "type": "action",
+      "intensite": "soft",
+      "categorie": "amis",
+      "gorgees": 1
+    },
+    {
+      "id": "av_a020",
+      "texte": "Imite la démarche de quelqu’un du groupe. On doit deviner qui.",
+      "type": "action",
+      "intensite": "soft",
+      "categorie": "amis",
+      "gorgees": 1
+    },
+    {
+      "id": "av_a021",
+      "texte": "Parle à la troisième personne jusqu’à ton prochain tour.",
+      "type": "action",
+      "intensite": "soft",
+      "categorie": "general",
+      "gorgees": 1
+    },
+    {
+      "id": "av_a022",
+      "texte": "Fais un discours de remerciement comme si tu venais de gagner un prix.",
+      "type": "action",
+      "intensite": "soft",
+      "categorie": "fete",
+      "gorgees": 1
+    },
+    {
+      "id": "av_a023",
+      "texte": "Montre la photo la plus récente de ta galerie.",
+      "type": "action",
+      "intensite": "soft",
+      "categorie": "general",
+      "gorgees": 1
+    },
+    {
+      "id": "av_a024",
+      "texte": "Laisse le groupe choisir ta position pour les trois prochains tours.",
+      "type": "action",
+      "intensite": "soft",
+      "categorie": "fete",
+      "gorgees": 1
+    },
+    {
+      "id": "av_a025",
+      "texte": "Fais semblant de pleurer pendant vingt secondes, de façon crédible.",
+      "type": "action",
+      "intensite": "soft",
+      "categorie": "fete",
+      "gorgees": 1
+    },
+    {
+      "id": "av_a026",
+      "texte": "Invente un surnom pour chaque joueur. Ils sont valables toute la partie.",
+      "type": "action",
+      "intensite": "soft",
+      "categorie": "amis",
+      "gorgees": 1
+    },
+    {
+      "id": "av_a027",
+      "texte": "Fais un beatbox de dix secondes.",
+      "type": "action",
+      "intensite": "soft",
+      "categorie": "fete",
+      "gorgees": 1
+    },
+    {
+      "id": "av_a028",
+      "texte": "Raconte la dernière fois que tu as eu vraiment honte.",
+      "type": "action",
+      "intensite": "soft",
+      "categorie": "gene",
+      "gorgees": 1
+    },
+    {
+      "id": "av_a029",
+      "texte": "Tiens la planche pendant trente secondes.",
+      "type": "action",
+      "intensite": "soft",
+      "categorie": "general",
+      "gorgees": 1
+    },
+    {
+      "id": "av_a030",
+      "texte": "Mime ton métier ou tes études. Interdiction de parler.",
+      "type": "action",
+      "intensite": "soft",
+      "categorie": "general",
+      "gorgees": 1
+    },
+    {
+      "id": "av_a031",
+      "texte": "Montre la dernière photo de ta galerie, sans la choisir.",
+      "type": "action",
+      "intensite": "normal",
+      "categorie": "gene",
+      "gorgees": 2
+    },
+    {
+      "id": "av_a032",
+      "texte": "Envoie un message à la cinquième personne de ta liste : « J’y pense encore. »",
+      "type": "action",
+      "intensite": "normal",
+      "categorie": "gene",
+      "gorgees": 2
+    },
+    {
+      "id": "av_a033",
+      "texte": "Laisse le groupe fouiller ta playlist et juger sans pitié.",
+      "type": "action",
+      "intensite": "normal",
+      "categorie": "gene",
+      "gorgees": 2
+    },
+    {
+      "id": "av_a034",
+      "texte": "Appelle un proche et chante-lui « Joyeux anniversaire ». Ce n’est pas son anniversaire.",
+      "type": "action",
+      "intensite": "normal",
+      "categorie": "fete",
+      "gorgees": 2
+    },
+    {
+      "id": "av_a035",
+      "texte": "Échange un vêtement avec la personne à ta gauche pour trois tours.",
+      "type": "action",
+      "intensite": "normal",
+      "categorie": "fete",
+      "gorgees": 2
+    },
+    {
+      "id": "av_a036",
+      "texte": "Imite la personne à ta droite pendant deux minutes, sans jamais t’arrêter.",
+      "type": "action",
+      "intensite": "normal",
+      "categorie": "amis",
+      "gorgees": 2
+    },
+    {
+      "id": "av_a037",
+      "texte": "Laisse le groupe choisir ta photo de profil pour vingt-quatre heures.",
+      "type": "action",
+      "intensite": "normal",
+      "categorie": "gene",
+      "gorgees": 2
+    },
+    {
+      "id": "av_a038",
+      "texte": "Raconte ton pire souvenir de soirée sans omettre un seul détail.",
+      "type": "action",
+      "intensite": "normal",
+      "categorie": "gene",
+      "gorgees": 2
+    },
+    {
+      "id": "av_a039",
+      "texte": "Laisse quelqu’un te coiffer comme il veut pour le reste de la partie.",
+      "type": "action",
+      "intensite": "normal",
+      "categorie": "fete",
+      "gorgees": 2
+    },
+    {
+      "id": "av_a040",
+      "texte": "Poste une story avec la première photo que le groupe désigne.",
+      "type": "action",
+      "intensite": "normal",
+      "categorie": "gene",
+      "gorgees": 2
+    },
+    {
+      "id": "av_a041",
+      "texte": "Lis à voix haute la dernière note de ton téléphone.",
+      "type": "action",
+      "intensite": "normal",
+      "categorie": "gene",
+      "gorgees": 2
+    },
+    {
+      "id": "av_a042",
+      "texte": "Appelle ta mère et dis-lui que tu l’aimes, sans explication.",
+      "type": "action",
+      "intensite": "normal",
+      "categorie": "amour",
+      "gorgees": 2
+    },
+    {
+      "id": "av_a043",
+      "texte": "Laisse ton voisin écrire un message et l’envoyer à ton dernier contact.",
+      "type": "action",
+      "intensite": "normal",
+      "categorie": "gene",
+      "gorgees": 2
+    },
+    {
+      "id": "av_a044",
+      "texte": "Fais une déclaration enflammée à un objet de la pièce.",
+      "type": "action",
+      "intensite": "normal",
+      "categorie": "fete",
+      "gorgees": 2
+    },
+    {
+      "id": "av_a045",
+      "texte": "Montre tes trois dernières recherches sur ton moteur de recherche.",
+      "type": "action",
+      "intensite": "normal",
+      "categorie": "gene",
+      "gorgees": 2
+    },
+    {
+      "id": "av_a046",
+      "texte": "Raconte une anecdote que personne ici ne connaît sur toi.",
+      "type": "action",
+      "intensite": "normal",
+      "categorie": "profond",
+      "gorgees": 2
+    },
+    {
+      "id": "av_a047",
+      "texte": "Laisse le groupe te poser trois questions. Tu dois répondre honnêtement.",
+      "type": "action",
+      "intensite": "normal",
+      "categorie": "profond",
+      "gorgees": 2
+    },
+    {
+      "id": "av_a048",
+      "texte": "Imite la personne que tu trouves la plus drôle du groupe.",
+      "type": "action",
+      "intensite": "normal",
+      "categorie": "amis",
+      "gorgees": 2
+    },
+    {
+      "id": "av_a049",
+      "texte": "Fais un compliment déguisé en insulte à chaque joueur.",
+      "type": "action",
+      "intensite": "normal",
+      "categorie": "amis",
+      "gorgees": 2
+    },
+    {
+      "id": "av_a050",
+      "texte": "Appelle un ami au hasard et demande-lui de décrire ta personnalité.",
+      "type": "action",
+      "intensite": "normal",
+      "categorie": "amis",
+      "gorgees": 2
+    },
+    {
+      "id": "av_a051",
+      "texte": "Danse pendant tout le tour suivant, sans jamais t’arrêter.",
+      "type": "action",
+      "intensite": "normal",
+      "categorie": "fete",
+      "gorgees": 2
+    },
+    {
+      "id": "av_a052",
+      "texte": "Laisse quelqu’un choisir un emoji. Tu l’utilises dans tous tes messages ce soir.",
+      "type": "action",
+      "intensite": "normal",
+      "categorie": "fete",
+      "gorgees": 2
+    },
+    {
+      "id": "av_a053",
+      "texte": "Raconte la fois où tu t’es le plus ridiculisé devant quelqu’un qui te plaisait.",
+      "type": "action",
+      "intensite": "normal",
+      "categorie": "amour",
+      "gorgees": 2
+    },
+    {
+      "id": "av_a054",
+      "texte": "Montre la conversation que tu as eue le plus récemment.",
+      "type": "action",
+      "intensite": "normal",
+      "categorie": "gene",
+      "gorgees": 2
+    },
+    {
+      "id": "av_a055",
+      "texte": "Fais une imitation de chaque joueur en dix secondes chacun.",
+      "type": "action",
+      "intensite": "normal",
+      "categorie": "amis",
+      "gorgees": 2
+    },
+    {
+      "id": "av_a056",
+      "texte": "Envoie un vocal de trente secondes à ton contact préféré, en chantant.",
+      "type": "action",
+      "intensite": "normal",
+      "categorie": "fete",
+      "gorgees": 2
+    },
+    {
+      "id": "av_a057",
+      "texte": "Laisse le groupe décider ce que tu fais pendant les deux prochains tours.",
+      "type": "action",
+      "intensite": "normal",
+      "categorie": "fete",
+      "gorgees": 2
+    },
+    {
+      "id": "av_a058",
+      "texte": "Dis à chaque joueur ce que tu envies chez lui.",
+      "type": "action",
+      "intensite": "normal",
+      "categorie": "amis",
+      "gorgees": 2
+    },
+    {
+      "id": "av_a059",
+      "texte": "Raconte le plus gros mensonge que tu aies dit cette année.",
+      "type": "action",
+      "intensite": "normal",
+      "categorie": "profond",
+      "gorgees": 2
+    },
+    {
+      "id": "av_a060",
+      "texte": "Refais la scène de film que tu connais le mieux par cœur.",
+      "type": "action",
+      "intensite": "normal",
+      "categorie": "fete",
+      "gorgees": 2
+    },
+    {
+      "id": "av_a061",
+      "texte": "Décris ton crush actuel sans le nommer. Le groupe devine.",
+      "type": "action",
+      "intensite": "normal",
+      "categorie": "amour",
+      "gorgees": 2
+    },
+    {
+      "id": "av_a062",
+      "texte": "Appelle ton ex et raccroche après trois secondes. Ou bois.",
+      "type": "action",
+      "intensite": "normal",
+      "categorie": "amour",
+      "gorgees": 2
+    },
+    {
+      "id": "av_a063",
+      "texte": "Laisse le groupe lire le dernier message que tu as envoyé.",
+      "type": "action",
+      "intensite": "normal",
+      "categorie": "gene",
+      "gorgees": 2
+    },
+    {
+      "id": "av_a064",
+      "texte": "Fais un rap improvisé sur la personne en face de toi.",
+      "type": "action",
+      "intensite": "normal",
+      "categorie": "fete",
+      "gorgees": 2
+    },
+    {
+      "id": "av_a065",
+      "texte": "Montre ta photo de profil d’il y a cinq ans.",
+      "type": "action",
+      "intensite": "normal",
+      "categorie": "gene",
+      "gorgees": 2
+    },
+    {
+      "id": "av_a066",
+      "texte": "Laisse quelqu’un lire à voix haute ta dernière conversation privée.",
+      "type": "action",
+      "intensite": "hardcore",
+      "categorie": "gene",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a067",
+      "texte": "Donne ton téléphone déverrouillé à ton voisin pendant soixante secondes.",
+      "type": "action",
+      "intensite": "hardcore",
+      "categorie": "gene",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a068",
+      "texte": "Appelle la dernière personne que tu as bloquée. Ou bois.",
+      "type": "action",
+      "intensite": "hardcore",
+      "categorie": "amour",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a069",
+      "texte": "Laisse le groupe écrire un message et l’envoyer à qui il veut dans tes contacts.",
+      "type": "action",
+      "intensite": "hardcore",
+      "categorie": "gene",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a070",
+      "texte": "Montre ton historique de recherche des sept derniers jours.",
+      "type": "action",
+      "intensite": "hardcore",
+      "categorie": "gene",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a071",
+      "texte": "Envoie un vocal d’excuses à quelqu’un que tu as déçu cette année.",
+      "type": "action",
+      "intensite": "hardcore",
+      "categorie": "profond",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a072",
+      "texte": "Lis ta dernière conversation avec ton ex, à voix haute.",
+      "type": "action",
+      "intensite": "hardcore",
+      "categorie": "amour",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a073",
+      "texte": "Dis à chaque joueur une chose que tu ne lui as jamais dite.",
+      "type": "action",
+      "intensite": "hardcore",
+      "categorie": "profond",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a074",
+      "texte": "Révèle le secret le moins grave que tu gardes pour toi.",
+      "type": "action",
+      "intensite": "hardcore",
+      "categorie": "profond",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a075",
+      "texte": "Appelle un proche et avoue-lui quelque chose que tu lui caches.",
+      "type": "action",
+      "intensite": "hardcore",
+      "categorie": "profond",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a076",
+      "texte": "Laisse le groupe consulter tes photos likées sur les réseaux.",
+      "type": "action",
+      "intensite": "hardcore",
+      "categorie": "gene",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a077",
+      "texte": "Dis à voix haute ce que tu penses vraiment de la personne à ta droite.",
+      "type": "action",
+      "intensite": "hardcore",
+      "categorie": "amis",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a078",
+      "texte": "Montre la dernière personne que tu as cherchée sur les réseaux.",
+      "type": "action",
+      "intensite": "hardcore",
+      "categorie": "amour",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a079",
+      "texte": "Raconte la chose la plus malhonnête que tu aies faite.",
+      "type": "action",
+      "intensite": "hardcore",
+      "categorie": "profond",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a080",
+      "texte": "Envoie « Il faut qu’on parle » à la personne de ton choix. Assume la suite.",
+      "type": "action",
+      "intensite": "hardcore",
+      "categorie": "gene",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a081",
+      "texte": "Classe les joueurs du plus proche au plus distant. Justifie.",
+      "type": "action",
+      "intensite": "hardcore",
+      "categorie": "amis",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a082",
+      "texte": "Avoue une chose que tu as faite et que tu regrettes encore.",
+      "type": "action",
+      "intensite": "hardcore",
+      "categorie": "profond",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a083",
+      "texte": "Laisse ton voisin poster ce qu’il veut en story pendant une heure.",
+      "type": "action",
+      "intensite": "hardcore",
+      "categorie": "gene",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a084",
+      "texte": "Dis qui, dans cette pièce, tu connais le moins bien. Et pourquoi.",
+      "type": "action",
+      "intensite": "hardcore",
+      "categorie": "amis",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a085",
+      "texte": "Raconte ta pire rupture, du début à la fin.",
+      "type": "action",
+      "intensite": "hardcore",
+      "categorie": "amour",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a086",
+      "texte": "Décris ton fantasme le plus récurrent, sans citer de nom.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a087",
+      "texte": "Mime ta position préférée. Le groupe doit deviner.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a088",
+      "texte": "Imite le bruit que tu fais au lit. Personne n’a le droit de rire.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a089",
+      "texte": "Envoie un message ambigu à la dernière personne avec qui tu as flirté.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a090",
+      "texte": "Raconte en détail ta meilleure expérience. Rien n’est censuré.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a091",
+      "texte": "Laisse le groupe lire ta conversation la plus osée.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a092",
+      "texte": "Donne trois choses qui te font craquer instantanément.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a093",
+      "texte": "Décris ce que tu ferais à la personne en face de toi si vous étiez seuls.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a094",
+      "texte": "Montre la photo la plus suggestive de ta galerie. Ou bois triple.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a095",
+      "texte": "Fais une danse aussi suggestive que possible pendant vingt secondes.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a096",
+      "texte": "Murmure à l’oreille de ton voisin ce que tu aimes le plus.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a097",
+      "texte": "Classe les joueurs par ordre d’attirance. Ne dis que le premier.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a098",
+      "texte": "Raconte ton pire moment de gêne au lit.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a099",
+      "texte": "Décris la tenue qui te fait le plus d’effet sur quelqu’un.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a100",
+      "texte": "Envoie un vocal à quelqu’un en disant ce que tu penses de lui. Sans filtre.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a101",
+      "texte": "Dis à voix haute la chose la plus sale que tu aies jamais pensée ce soir.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a102",
+      "texte": "Embrasse la joue de la personne que le groupe désigne.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a103",
+      "texte": "Retire un vêtement de ton choix. Ou bois triple.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a104",
+      "texte": "Raconte le lieu le plus risqué où tu es allé trop loin.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_a105",
+      "texte": "Fais deviner au groupe ton fantasme en mime. Aucun mot.",
+      "type": "action",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v001",
+      "texte": "Quelle est la chose la plus embarrassante que tu aies faite cette année ?",
+      "type": "verite",
+      "intensite": "soft",
+      "categorie": "gene",
+      "gorgees": 1
+    },
+    {
+      "id": "av_v002",
+      "texte": "Quel est ton plaisir coupable que tu n’assumes pas en public ?",
+      "type": "verite",
+      "intensite": "soft",
+      "categorie": "general",
+      "gorgees": 1
+    },
+    {
+      "id": "av_v003",
+      "texte": "Quelle est la dernière chose que tu as cherchée sur Internet ?",
+      "type": "verite",
+      "intensite": "soft",
+      "categorie": "gene",
+      "gorgees": 1
+    },
+    {
+      "id": "av_v004",
+      "texte": "Quel talent complètement inutile possèdes-tu ?",
+      "type": "verite",
+      "intensite": "soft",
+      "categorie": "general",
+      "gorgees": 1
+    },
+    {
+      "id": "av_v005",
+      "texte": "Quelle est la peur la plus irrationnelle que tu aies ?",
+      "type": "verite",
+      "intensite": "soft",
+      "categorie": "general",
+      "gorgees": 1
+    },
+    {
+      "id": "av_v006",
+      "texte": "Quand as-tu pleuré pour la dernière fois, et pourquoi ?",
+      "type": "verite",
+      "intensite": "soft",
+      "categorie": "profond",
+      "gorgees": 1
+    },
+    {
+      "id": "av_v007",
+      "texte": "Quel compliment te fait le plus plaisir ?",
+      "type": "verite",
+      "intensite": "soft",
+      "categorie": "amis",
+      "gorgees": 1
+    },
+    {
+      "id": "av_v008",
+      "texte": "Quelle habitude bizarre as-tu quand tu es seul ?",
+      "type": "verite",
+      "intensite": "soft",
+      "categorie": "gene",
+      "gorgees": 1
+    },
+    {
+      "id": "av_v009",
+      "texte": "Quel est le pire cadeau que tu aies reçu ?",
+      "type": "verite",
+      "intensite": "soft",
+      "categorie": "general",
+      "gorgees": 1
+    },
+    {
+      "id": "av_v010",
+      "texte": "Quelle chanson connais-tu entièrement par cœur, et que tu n’assumes pas ?",
+      "type": "verite",
+      "intensite": "soft",
+      "categorie": "gene",
+      "gorgees": 1
+    },
+    {
+      "id": "av_v011",
+      "texte": "Quel est ton pire souvenir d’école ?",
+      "type": "verite",
+      "intensite": "soft",
+      "categorie": "gene",
+      "gorgees": 1
+    },
+    {
+      "id": "av_v012",
+      "texte": "Quelle est la chose la plus chère que tu aies cassée ?",
+      "type": "verite",
+      "intensite": "soft",
+      "categorie": "general",
+      "gorgees": 1
+    },
+    {
+      "id": "av_v013",
+      "texte": "Quel personnage de fiction te ressemble le plus ?",
+      "type": "verite",
+      "intensite": "soft",
+      "categorie": "general",
+      "gorgees": 1
+    },
+    {
+      "id": "av_v014",
+      "texte": "Quelle est ta plus grande fierté ?",
+      "type": "verite",
+      "intensite": "soft",
+      "categorie": "profond",
+      "gorgees": 1
+    },
+    {
+      "id": "av_v015",
+      "texte": "Qu’est-ce qui te met de bonne humeur à coup sûr ?",
+      "type": "verite",
+      "intensite": "soft",
+      "categorie": "amis",
+      "gorgees": 1
+    },
+    {
+      "id": "av_v016",
+      "texte": "Quel est le meilleur conseil qu’on t’ait donné ?",
+      "type": "verite",
+      "intensite": "soft",
+      "categorie": "profond",
+      "gorgees": 1
+    },
+    {
+      "id": "av_v017",
+      "texte": "Quelle série as-tu regardée en entier le plus rapidement ?",
+      "type": "verite",
+      "intensite": "soft",
+      "categorie": "general",
+      "gorgees": 1
+    },
+    {
+      "id": "av_v018",
+      "texte": "Quel est le plat que tu ne supportes pas, mais que tout le monde adore ?",
+      "type": "verite",
+      "intensite": "soft",
+      "categorie": "general",
+      "gorgees": 1
+    },
+    {
+      "id": "av_v019",
+      "texte": "Si tu pouvais changer une chose dans ta journée type, ce serait quoi ?",
+      "type": "verite",
+      "intensite": "soft",
+      "categorie": "profond",
+      "gorgees": 1
+    },
+    {
+      "id": "av_v020",
+      "texte": "Quel est ton rituel avant de dormir ?",
+      "type": "verite",
+      "intensite": "soft",
+      "categorie": "general",
+      "gorgees": 1
+    },
+    {
+      "id": "av_v021",
+      "texte": "Quelle est la dernière chose qui t’a fait rire aux éclats ?",
+      "type": "verite",
+      "intensite": "soft",
+      "categorie": "amis",
+      "gorgees": 1
+    },
+    {
+      "id": "av_v022",
+      "texte": "Quel serait ton métier de rêve si l’argent n’existait pas ?",
+      "type": "verite",
+      "intensite": "soft",
+      "categorie": "profond",
+      "gorgees": 1
+    },
+    {
+      "id": "av_v023",
+      "texte": "Quelle est la chose la plus impulsive que tu aies achetée ?",
+      "type": "verite",
+      "intensite": "soft",
+      "categorie": "general",
+      "gorgees": 1
+    },
+    {
+      "id": "av_v024",
+      "texte": "Qui, dans ce groupe, appellerais-tu en premier en cas de problème ?",
+      "type": "verite",
+      "intensite": "soft",
+      "categorie": "amis",
+      "gorgees": 1
+    },
+    {
+      "id": "av_v025",
+      "texte": "Quel est ton pire défaut, selon tes proches ?",
+      "type": "verite",
+      "intensite": "soft",
+      "categorie": "amis",
+      "gorgees": 1
+    },
+    {
+      "id": "av_v026",
+      "texte": "Qui, dans cette pièce, reconnaîtrais-tu les yeux fermés ?",
+      "type": "verite",
+      "intensite": "normal",
+      "categorie": "amis",
+      "gorgees": 2
+    },
+    {
+      "id": "av_v027",
+      "texte": "Quel est le plus gros mensonge que tu aies dit à tes parents ?",
+      "type": "verite",
+      "intensite": "normal",
+      "categorie": "gene",
+      "gorgees": 2
+    },
+    {
+      "id": "av_v028",
+      "texte": "Sur qui, ici, aurais-tu pu craquer dans une autre vie ?",
+      "type": "verite",
+      "intensite": "normal",
+      "categorie": "amour",
+      "gorgees": 2
+    },
+    {
+      "id": "av_v029",
+      "texte": "Quelle est la dépense la plus absurde que tu aies faite ?",
+      "type": "verite",
+      "intensite": "normal",
+      "categorie": "general",
+      "gorgees": 2
+    },
+    {
+      "id": "av_v030",
+      "texte": "Quel message n’as-tu jamais osé envoyer, et à qui ?",
+      "type": "verite",
+      "intensite": "normal",
+      "categorie": "amour",
+      "gorgees": 2
+    },
+    {
+      "id": "av_v031",
+      "texte": "Quelle est la rumeur la plus fausse qui ait circulé sur toi ?",
+      "type": "verite",
+      "intensite": "normal",
+      "categorie": "gene",
+      "gorgees": 2
+    },
+    {
+      "id": "av_v032",
+      "texte": "Qu’as-tu fait dont personne ici n’a la moindre idée ?",
+      "type": "verite",
+      "intensite": "normal",
+      "categorie": "profond",
+      "gorgees": 2
+    },
+    {
+      "id": "av_v033",
+      "texte": "Quelle décision regrettes-tu le plus dans les cinq dernières années ?",
+      "type": "verite",
+      "intensite": "normal",
+      "categorie": "profond",
+      "gorgees": 2
+    },
+    {
+      "id": "av_v034",
+      "texte": "As-tu déjà fait semblant d’aimer un cadeau ? Lequel ?",
+      "type": "verite",
+      "intensite": "normal",
+      "categorie": "gene",
+      "gorgees": 2
+    },
+    {
+      "id": "av_v035",
+      "texte": "Quelle est la chose la plus gênante que tes parents aient découverte ?",
+      "type": "verite",
+      "intensite": "normal",
+      "categorie": "gene",
+      "gorgees": 2
+    },
+    {
+      "id": "av_v036",
+      "texte": "Combien de fois as-tu relu un message avant de l’envoyer ? Pourquoi ?",
+      "type": "verite",
+      "intensite": "normal",
+      "categorie": "amour",
+      "gorgees": 2
+    },
+    {
+      "id": "av_v037",
+      "texte": "Quel est le dernier compte que tu as stalké ?",
+      "type": "verite",
+      "intensite": "normal",
+      "categorie": "amour",
+      "gorgees": 2
+    },
+    {
+      "id": "av_v038",
+      "texte": "À qui penses-tu quand tu écoutes une chanson triste ?",
+      "type": "verite",
+      "intensite": "normal",
+      "categorie": "amour",
+      "gorgees": 2
+    },
+    {
+      "id": "av_v039",
+      "texte": "Qu’est-ce que tu as fait uniquement pour impressionner quelqu’un ?",
+      "type": "verite",
+      "intensite": "normal",
+      "categorie": "amour",
+      "gorgees": 2
+    },
+    {
+      "id": "av_v040",
+      "texte": "Quelle est la promesse que tu n’as pas tenue et qui te pèse encore ?",
+      "type": "verite",
+      "intensite": "normal",
+      "categorie": "profond",
+      "gorgees": 2
+    },
+    {
+      "id": "av_v041",
+      "texte": "Quel est le pire message que tu aies envoyé en soirée ?",
+      "type": "verite",
+      "intensite": "normal",
+      "categorie": "gene",
+      "gorgees": 2
+    },
+    {
+      "id": "av_v042",
+      "texte": "Qui, dans ce groupe, t’a le plus déçu ? Tu n’as pas à le nommer.",
+      "type": "verite",
+      "intensite": "normal",
+      "categorie": "amis",
+      "gorgees": 2
+    },
+    {
+      "id": "av_v043",
+      "texte": "Quelle est la chose la plus ridicule que tu aies faite par amour ?",
+      "type": "verite",
+      "intensite": "normal",
+      "categorie": "amour",
+      "gorgees": 2
+    },
+    {
+      "id": "av_v044",
+      "texte": "As-tu déjà menti pour éviter de voir quelqu’un ? Raconte.",
+      "type": "verite",
+      "intensite": "normal",
+      "categorie": "amis",
+      "gorgees": 2
+    },
+    {
+      "id": "av_v045",
+      "texte": "Quelle est ta plus grosse insécurité ?",
+      "type": "verite",
+      "intensite": "normal",
+      "categorie": "profond",
+      "gorgees": 2
+    },
+    {
+      "id": "av_v046",
+      "texte": "Qu’est-ce que tu ne supportes pas chez les gens, mais que tu fais aussi ?",
+      "type": "verite",
+      "intensite": "normal",
+      "categorie": "profond",
+      "gorgees": 2
+    },
+    {
+      "id": "av_v047",
+      "texte": "Quel est ton plus grand regret amoureux ?",
+      "type": "verite",
+      "intensite": "normal",
+      "categorie": "amour",
+      "gorgees": 2
+    },
+    {
+      "id": "av_v048",
+      "texte": "Combien de personnes as-tu embrassées ? Le vrai chiffre.",
+      "type": "verite",
+      "intensite": "normal",
+      "categorie": "amour",
+      "gorgees": 2
+    },
+    {
+      "id": "av_v049",
+      "texte": "Quelle est la chose que tu caches le mieux aux gens ?",
+      "type": "verite",
+      "intensite": "normal",
+      "categorie": "profond",
+      "gorgees": 2
+    },
+    {
+      "id": "av_v050",
+      "texte": "As-tu déjà été jaloux de quelqu’un ici ? De quoi ?",
+      "type": "verite",
+      "intensite": "normal",
+      "categorie": "amis",
+      "gorgees": 2
+    },
+    {
+      "id": "av_v051",
+      "texte": "Quel est le pire rendez-vous que tu aies eu ?",
+      "type": "verite",
+      "intensite": "normal",
+      "categorie": "amour",
+      "gorgees": 2
+    },
+    {
+      "id": "av_v052",
+      "texte": "Qu’est-ce qui pourrait te faire quitter quelqu’un du jour au lendemain ?",
+      "type": "verite",
+      "intensite": "normal",
+      "categorie": "amour",
+      "gorgees": 2
+    },
+    {
+      "id": "av_v053",
+      "texte": "Quelle est la dernière fois que tu as eu vraiment peur ?",
+      "type": "verite",
+      "intensite": "normal",
+      "categorie": "profond",
+      "gorgees": 2
+    },
+    {
+      "id": "av_v054",
+      "texte": "Qu’as-tu déjà volé, même tout petit ?",
+      "type": "verite",
+      "intensite": "normal",
+      "categorie": "gene",
+      "gorgees": 2
+    },
+    {
+      "id": "av_v055",
+      "texte": "Si tu devais recommencer une année de ta vie, laquelle et pourquoi ?",
+      "type": "verite",
+      "intensite": "normal",
+      "categorie": "profond",
+      "gorgees": 2
+    },
+    {
+      "id": "av_v056",
+      "texte": "Quelle est la chose que tu regrettes le plus d’avoir dite ?",
+      "type": "verite",
+      "intensite": "hardcore",
+      "categorie": "profond",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v057",
+      "texte": "Qui dans ce groupe t’a le plus surpris, en bien ou en mal ?",
+      "type": "verite",
+      "intensite": "hardcore",
+      "categorie": "amis",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v058",
+      "texte": "Quel secret gardes-tu qui ne fait de mal à personne, mais que tu ne diras jamais ?",
+      "type": "verite",
+      "intensite": "hardcore",
+      "categorie": "profond",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v059",
+      "texte": "Quelle est la pire chose que tu aies faite à quelqu’un qui ne le méritait pas ?",
+      "type": "verite",
+      "intensite": "hardcore",
+      "categorie": "profond",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v060",
+      "texte": "As-tu déjà trahi la confiance de quelqu’un présent ce soir ?",
+      "type": "verite",
+      "intensite": "hardcore",
+      "categorie": "amis",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v061",
+      "texte": "Quelle est la chose la plus malhonnête que tu aies faite pour de l’argent ?",
+      "type": "verite",
+      "intensite": "hardcore",
+      "categorie": "profond",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v062",
+      "texte": "As-tu déjà été infidèle, d’une manière ou d’une autre ?",
+      "type": "verite",
+      "intensite": "hardcore",
+      "categorie": "amour",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v063",
+      "texte": "Qu’est-ce que tu n’as jamais avoué à ton ou ta partenaire ?",
+      "type": "verite",
+      "intensite": "hardcore",
+      "categorie": "amour",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v064",
+      "texte": "Qui, ici, pourrais-tu ne plus jamais revoir sans que ça te manque ?",
+      "type": "verite",
+      "intensite": "hardcore",
+      "categorie": "amis",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v065",
+      "texte": "Quelle est la pensée la plus sombre que tu aies eue sur quelqu’un ?",
+      "type": "verite",
+      "intensite": "hardcore",
+      "categorie": "profond",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v066",
+      "texte": "As-tu déjà souhaité du mal à quelqu’un de ton entourage ?",
+      "type": "verite",
+      "intensite": "hardcore",
+      "categorie": "profond",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v067",
+      "texte": "Qu’est-ce qui te ferait tout plaquer demain matin ?",
+      "type": "verite",
+      "intensite": "hardcore",
+      "categorie": "profond",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v068",
+      "texte": "Quel est le mensonge que tu répètes le plus souvent ?",
+      "type": "verite",
+      "intensite": "hardcore",
+      "categorie": "profond",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v069",
+      "texte": "Qui aimerais-tu revoir une dernière fois, et pour lui dire quoi ?",
+      "type": "verite",
+      "intensite": "hardcore",
+      "categorie": "profond",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v070",
+      "texte": "As-tu déjà fait semblant d’être quelqu’un d’autre pour plaire ?",
+      "type": "verite",
+      "intensite": "hardcore",
+      "categorie": "amour",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v071",
+      "texte": "Quelle est la limite que tu as franchie et que tu pensais ne jamais franchir ?",
+      "type": "verite",
+      "intensite": "hardcore",
+      "categorie": "profond",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v072",
+      "texte": "Qu’est-ce que tu ne pardonnerais jamais, à personne ?",
+      "type": "verite",
+      "intensite": "hardcore",
+      "categorie": "profond",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v073",
+      "texte": "De qui, ici, as-tu déjà dit du mal dans son dos ?",
+      "type": "verite",
+      "intensite": "hardcore",
+      "categorie": "amis",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v074",
+      "texte": "Quelle relation as-tu laissée mourir sans rien dire ?",
+      "type": "verite",
+      "intensite": "hardcore",
+      "categorie": "amour",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v075",
+      "texte": "Qu’est-ce que tu ferais si personne ne pouvait jamais le savoir ?",
+      "type": "verite",
+      "intensite": "hardcore",
+      "categorie": "profond",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v076",
+      "texte": "Combien de partenaires as-tu eus ? Le vrai chiffre.",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v077",
+      "texte": "Quel est l’endroit le plus risqué où tu es allé trop loin ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v078",
+      "texte": "Quel fantasme n’as-tu jamais osé avouer à un partenaire ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v079",
+      "texte": "À quand remonte ta dernière fois, et avec qui ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v080",
+      "texte": "As-tu déjà couché avec quelqu’un présent dans cette pièce ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v081",
+      "texte": "Quelle est la chose la plus sale qu’on t’ait murmurée à l’oreille ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v082",
+      "texte": "Qu’est-ce qui te fait perdre tous tes moyens au lit ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v083",
+      "texte": "Quelle est la pire chose que tu aies dite pendant l’acte ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v084",
+      "texte": "As-tu déjà simulé ? Combien de fois ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v085",
+      "texte": "Quel est ton plus gros tabou, celui que tu n’essaierais jamais ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v086",
+      "texte": "Avec qui, ici, passerais-tu la nuit si personne ne le savait jamais ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v087",
+      "texte": "Quelle est la chose la plus étrange qui t’ait excité ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v088",
+      "texte": "As-tu déjà envoyé une photo que tu regrettes ? À qui ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v089",
+      "texte": "Quel est le plus grand nombre de fois en une seule nuit ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v090",
+      "texte": "Qu’est-ce qui te donne envie instantanément ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v091",
+      "texte": "As-tu déjà été surpris en pleine action ? Par qui ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v092",
+      "texte": "Quelle est la proposition la plus indécente qu’on t’ait faite ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v093",
+      "texte": "Quel est le prénom que tu n’aurais jamais dû prononcer ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v094",
+      "texte": "Combien de temps sans personne, actuellement ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "av_v095",
+      "texte": "Qu’est-ce que tu n’as jamais osé demander, mais dont tu rêves ?",
+      "type": "verite",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    }
+  ]
+}

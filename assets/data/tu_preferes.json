@@ -1,0 +1,1759 @@
+{
+  "mode": "tu_preferes",
+  "version": 6,
+  "maxGorgeesParTour": 2,
+  "entrees": [
+    {
+      "id": "tp_001",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "soft",
+      "categorie": "general",
+      "gorgees": 2,
+      "options": [
+        "Ne plus jamais manger de fromage",
+        "Ne plus jamais manger de chocolat"
+      ]
+    },
+    {
+      "id": "tp_002",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "soft",
+      "categorie": "general",
+      "gorgees": 2,
+      "options": [
+        "Avoir toujours trop chaud",
+        "Avoir toujours trop froid"
+      ]
+    },
+    {
+      "id": "tp_003",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "soft",
+      "categorie": "general",
+      "gorgees": 2,
+      "options": [
+        "Perdre la vue pendant un an",
+        "Perdre l’ouïe pendant un an"
+      ]
+    },
+    {
+      "id": "tp_004",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "soft",
+      "categorie": "general",
+      "gorgees": 2,
+      "options": [
+        "Vivre sans musique",
+        "Vivre sans films ni séries"
+      ]
+    },
+    {
+      "id": "tp_005",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "soft",
+      "categorie": "general",
+      "gorgees": 2,
+      "options": [
+        "Être toujours en retard de dix minutes",
+        "Être toujours en avance d’une heure"
+      ]
+    },
+    {
+      "id": "tp_006",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "soft",
+      "categorie": "general",
+      "gorgees": 2,
+      "options": [
+        "Ne plus jamais voyager",
+        "Ne plus jamais revenir chez toi"
+      ]
+    },
+    {
+      "id": "tp_007",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "soft",
+      "categorie": "fete",
+      "gorgees": 2,
+      "options": [
+        "Avoir un chat qui parle",
+        "Avoir un chien qui cuisine"
+      ]
+    },
+    {
+      "id": "tp_008",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "soft",
+      "categorie": "general",
+      "gorgees": 2,
+      "options": [
+        "Ne manger que du sucré",
+        "Ne manger que du salé"
+      ]
+    },
+    {
+      "id": "tp_009",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "soft",
+      "categorie": "general",
+      "gorgees": 2,
+      "options": [
+        "Vivre à la montagne toute l’année",
+        "Vivre au bord de la mer toute l’année"
+      ]
+    },
+    {
+      "id": "tp_010",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "soft",
+      "categorie": "general",
+      "gorgees": 2,
+      "options": [
+        "Ne plus jamais utiliser ton téléphone la nuit",
+        "Ne plus jamais l’utiliser le week-end"
+      ]
+    },
+    {
+      "id": "tp_011",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "soft",
+      "categorie": "fete",
+      "gorgees": 2,
+      "options": [
+        "Être invisible pendant une journée",
+        "Pouvoir voler pendant une journée"
+      ]
+    },
+    {
+      "id": "tp_012",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "soft",
+      "categorie": "profond",
+      "gorgees": 2,
+      "options": [
+        "Avoir une mémoire parfaite",
+        "Pouvoir tout oublier à volonté"
+      ]
+    },
+    {
+      "id": "tp_013",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "soft",
+      "categorie": "general",
+      "gorgees": 2,
+      "options": [
+        "Ne plus jamais être fatigué",
+        "Ne plus jamais avoir faim"
+      ]
+    },
+    {
+      "id": "tp_014",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "soft",
+      "categorie": "fete",
+      "gorgees": 2,
+      "options": [
+        "Devoir chanter chaque phrase",
+        "Devoir danser en marchant"
+      ]
+    },
+    {
+      "id": "tp_015",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "soft",
+      "categorie": "general",
+      "gorgees": 2,
+      "options": [
+        "Vivre sans réseaux sociaux",
+        "Vivre sans plateformes de streaming"
+      ]
+    },
+    {
+      "id": "tp_016",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "soft",
+      "categorie": "profond",
+      "gorgees": 2,
+      "options": [
+        "Des vacances illimitées mais un salaire minimum",
+        "Un très bon salaire mais aucune vacance"
+      ]
+    },
+    {
+      "id": "tp_017",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "soft",
+      "categorie": "general",
+      "gorgees": 2,
+      "options": [
+        "Ne plus jamais avoir mal",
+        "Ne plus jamais être malade"
+      ]
+    },
+    {
+      "id": "tp_018",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "soft",
+      "categorie": "general",
+      "gorgees": 2,
+      "options": [
+        "Parler toutes les langues",
+        "Savoir jouer de tous les instruments"
+      ]
+    },
+    {
+      "id": "tp_019",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "soft",
+      "categorie": "profond",
+      "gorgees": 2,
+      "options": [
+        "Avoir toujours raison mais que personne ne t’écoute",
+        "Avoir souvent tort mais être toujours écouté"
+      ]
+    },
+    {
+      "id": "tp_020",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "soft",
+      "categorie": "general",
+      "gorgees": 2,
+      "options": [
+        "Ne dormir que quatre heures par nuit",
+        "Devoir dormir douze heures par nuit"
+      ]
+    },
+    {
+      "id": "tp_021",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "soft",
+      "categorie": "fete",
+      "gorgees": 2,
+      "options": [
+        "Ne plus jamais boire de café",
+        "Ne plus jamais boire d’alcool"
+      ]
+    },
+    {
+      "id": "tp_022",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "soft",
+      "categorie": "profond",
+      "gorgees": 2,
+      "options": [
+        "Être célèbre pour une chose ridicule",
+        "Être inconnu malgré un vrai talent"
+      ]
+    },
+    {
+      "id": "tp_023",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "soft",
+      "categorie": "profond",
+      "gorgees": 2,
+      "options": [
+        "Vivre cent ans en bonne santé",
+        "Vivre soixante ans intensément"
+      ]
+    },
+    {
+      "id": "tp_024",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "soft",
+      "categorie": "profond",
+      "gorgees": 2,
+      "options": [
+        "Ne plus jamais mentir",
+        "Ne plus jamais qu’on te mente"
+      ]
+    },
+    {
+      "id": "tp_025",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "soft",
+      "categorie": "general",
+      "gorgees": 2,
+      "options": [
+        "Manger le même plat toute ta vie",
+        "Ne plus jamais manger ton plat préféré"
+      ]
+    },
+    {
+      "id": "tp_026",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "normal",
+      "categorie": "profond",
+      "gorgees": 2,
+      "options": [
+        "Que tout le monde lise tes pensées une heure par jour",
+        "Lire les pensées de tout le monde en permanence"
+      ]
+    },
+    {
+      "id": "tp_027",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "normal",
+      "categorie": "profond",
+      "gorgees": 2,
+      "options": [
+        "Perdre tous tes souvenirs de l’année écoulée",
+        "Perdre tous tes contacts téléphoniques"
+      ]
+    },
+    {
+      "id": "tp_028",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "normal",
+      "categorie": "profond",
+      "gorgees": 2,
+      "options": [
+        "Savoir exactement quand tu vas mourir",
+        "Savoir exactement comment"
+      ]
+    },
+    {
+      "id": "tp_029",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "normal",
+      "categorie": "profond",
+      "gorgees": 2,
+      "options": [
+        "Être célèbre et détesté",
+        "Être inconnu et adoré de dix personnes"
+      ]
+    },
+    {
+      "id": "tp_030",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "normal",
+      "categorie": "profond",
+      "gorgees": 2,
+      "options": [
+        "Un métier que tu détestes très bien payé",
+        "Un métier que tu adores au salaire minimum"
+      ]
+    },
+    {
+      "id": "tp_031",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "normal",
+      "categorie": "profond",
+      "gorgees": 2,
+      "options": [
+        "Revivre la même journée pendant un an",
+        "Sauter un an de ta vie"
+      ]
+    },
+    {
+      "id": "tp_032",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "normal",
+      "categorie": "gene",
+      "gorgees": 2,
+      "options": [
+        "Que ton crush connaisse tous tes messages",
+        "Que tes parents connaissent toute ta vie"
+      ]
+    },
+    {
+      "id": "tp_033",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "normal",
+      "categorie": "amis",
+      "gorgees": 2,
+      "options": [
+        "Ne plus jamais revoir ton meilleur ami",
+        "Ne plus jamais revoir ta famille"
+      ]
+    },
+    {
+      "id": "tp_034",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "normal",
+      "categorie": "profond",
+      "gorgees": 2,
+      "options": [
+        "Être trahi une fois par quelqu’un que tu aimes",
+        "Trahir quelqu’un sans qu’il le sache jamais"
+      ]
+    },
+    {
+      "id": "tp_035",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "normal",
+      "categorie": "gene",
+      "gorgees": 2,
+      "options": [
+        "Que tout le monde connaisse ton salaire",
+        "Que tout le monde connaisse ton historique"
+      ]
+    },
+    {
+      "id": "tp_036",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "normal",
+      "categorie": "amour",
+      "gorgees": 2,
+      "options": [
+        "Avoir un partenaire parfait mais ennuyeux",
+        "Un partenaire imprévisible mais épuisant"
+      ]
+    },
+    {
+      "id": "tp_037",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "normal",
+      "categorie": "gene",
+      "gorgees": 2,
+      "options": [
+        "Rire à chaque mauvaise nouvelle",
+        "Pleurer à chaque bonne nouvelle"
+      ]
+    },
+    {
+      "id": "tp_038",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "normal",
+      "categorie": "profond",
+      "gorgees": 2,
+      "options": [
+        "Dire tout ce que tu penses pendant une semaine",
+        "Ne rien pouvoir dire pendant un mois"
+      ]
+    },
+    {
+      "id": "tp_039",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "normal",
+      "categorie": "amour",
+      "gorgees": 2,
+      "options": [
+        "Que ton ex revienne dans ta vie",
+        "Ne plus jamais avoir de ses nouvelles"
+      ]
+    },
+    {
+      "id": "tp_040",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "normal",
+      "categorie": "amis",
+      "gorgees": 2,
+      "options": [
+        "Être le plus intelligent de la pièce en permanence",
+        "Être le plus drôle en permanence"
+      ]
+    },
+    {
+      "id": "tp_041",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "normal",
+      "categorie": "amour",
+      "gorgees": 2,
+      "options": [
+        "Une relation passionnelle qui dure six mois",
+        "Une relation tiède qui dure dix ans"
+      ]
+    },
+    {
+      "id": "tp_042",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "normal",
+      "categorie": "gene",
+      "gorgees": 2,
+      "options": [
+        "Que tes amis notent chacune de tes décisions",
+        "Que des inconnus notent ton physique"
+      ]
+    },
+    {
+      "id": "tp_043",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "normal",
+      "categorie": "general",
+      "gorgees": 2,
+      "options": [
+        "Perdre ton téléphone avec tout dessus",
+        "Perdre toutes tes photos depuis dix ans"
+      ]
+    },
+    {
+      "id": "tp_044",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "normal",
+      "categorie": "amour",
+      "gorgees": 2,
+      "options": [
+        "Ne plus jamais pouvoir mentir à quelqu’un que tu aimes",
+        "Ne plus jamais pouvoir lui dire la vérité"
+      ]
+    },
+    {
+      "id": "tp_045",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "normal",
+      "categorie": "amour",
+      "gorgees": 2,
+      "options": [
+        "Être toujours celui qui aime le plus",
+        "Être toujours celui qui aime le moins"
+      ]
+    },
+    {
+      "id": "tp_046",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "normal",
+      "categorie": "profond",
+      "gorgees": 2,
+      "options": [
+        "Savoir ce que les gens pensent de toi",
+        "Ne jamais rien savoir et vivre tranquille"
+      ]
+    },
+    {
+      "id": "tp_047",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "normal",
+      "categorie": "amis",
+      "gorgees": 2,
+      "options": [
+        "Échanger ta vie avec ton voisin de droite",
+        "Échanger ta vie avec un inconnu"
+      ]
+    },
+    {
+      "id": "tp_048",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "normal",
+      "categorie": "profond",
+      "gorgees": 2,
+      "options": [
+        "Avoir un enfant à vingt ans",
+        "Ne jamais pouvoir en avoir"
+      ]
+    },
+    {
+      "id": "tp_049",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "normal",
+      "categorie": "amour",
+      "gorgees": 2,
+      "options": [
+        "Que ton partenaire soit ami avec tous tes ex",
+        "Qu’il ne rencontre jamais aucun de tes amis"
+      ]
+    },
+    {
+      "id": "tp_050",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "normal",
+      "categorie": "amis",
+      "gorgees": 2,
+      "options": [
+        "Découvrir un secret qui détruit une amitié",
+        "Ne jamais rien savoir et rester dans l’illusion"
+      ]
+    },
+    {
+      "id": "tp_051",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "normal",
+      "categorie": "amour",
+      "gorgees": 2,
+      "options": [
+        "Être seul pendant cinq ans",
+        "Être mal accompagné pendant vingt ans"
+      ]
+    },
+    {
+      "id": "tp_052",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "normal",
+      "categorie": "profond",
+      "gorgees": 2,
+      "options": [
+        "Recommencer ta scolarité entière",
+        "Recommencer toutes tes relations amoureuses"
+      ]
+    },
+    {
+      "id": "tp_053",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "normal",
+      "categorie": "profond",
+      "gorgees": 2,
+      "options": [
+        "Ne plus jamais avoir de vie privée",
+        "Ne plus jamais avoir de vie sociale"
+      ]
+    },
+    {
+      "id": "tp_054",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "hardcore",
+      "categorie": "gene",
+      "gorgees": 2,
+      "options": [
+        "Que le groupe lise toutes tes conversations",
+        "Que le groupe voie toutes tes photos"
+      ]
+    },
+    {
+      "id": "tp_055",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "hardcore",
+      "categorie": "profond",
+      "gorgees": 2,
+      "options": [
+        "Dire une vérité qui blesse",
+        "Garder un mensonge qui protège"
+      ]
+    },
+    {
+      "id": "tp_056",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "hardcore",
+      "categorie": "profond",
+      "gorgees": 2,
+      "options": [
+        "Être trahi par ton meilleur ami",
+        "Trahir ton meilleur ami sans qu’il le sache"
+      ]
+    },
+    {
+      "id": "tp_057",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "hardcore",
+      "categorie": "gene",
+      "gorgees": 2,
+      "options": [
+        "Que ton ex raconte votre histoire au groupe",
+        "Que tes parents la racontent"
+      ]
+    },
+    {
+      "id": "tp_058",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "hardcore",
+      "categorie": "profond",
+      "gorgees": 2,
+      "options": [
+        "Avouer ton pire secret à tout le monde",
+        "Écouter les pires secrets de tout le monde"
+      ]
+    },
+    {
+      "id": "tp_059",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "hardcore",
+      "categorie": "amis",
+      "gorgees": 2,
+      "options": [
+        "Savoir que tes amis se moquent de toi en secret",
+        "Découvrir que personne ne parle jamais de toi"
+      ]
+    },
+    {
+      "id": "tp_060",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "hardcore",
+      "categorie": "profond",
+      "gorgees": 2,
+      "options": [
+        "Pardonner à quelqu’un qui ne le mérite pas",
+        "Perdre quelqu’un qui le méritait"
+      ]
+    },
+    {
+      "id": "tp_061",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "hardcore",
+      "categorie": "amour",
+      "gorgees": 2,
+      "options": [
+        "Que ton partenaire avoue une infidélité",
+        "Ne jamais rien savoir"
+      ]
+    },
+    {
+      "id": "tp_062",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "hardcore",
+      "categorie": "profond",
+      "gorgees": 2,
+      "options": [
+        "Revoir la personne que tu as le plus blessée",
+        "Revoir celle qui t’a le plus blessé"
+      ]
+    },
+    {
+      "id": "tp_063",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "hardcore",
+      "categorie": "amour",
+      "gorgees": 2,
+      "options": [
+        "Perdre la personne que tu aimes le plus",
+        "Qu’elle te déteste pour toujours"
+      ]
+    },
+    {
+      "id": "tp_064",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "hardcore",
+      "categorie": "profond",
+      "gorgees": 2,
+      "options": [
+        "Être responsable de la rupture de tes parents",
+        "Ne jamais connaître la vérité sur eux"
+      ]
+    },
+    {
+      "id": "tp_065",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "hardcore",
+      "categorie": "profond",
+      "gorgees": 2,
+      "options": [
+        "Que tout le monde connaisse ta pire pensée",
+        "Vivre avec elle sans jamais pouvoir la dire"
+      ]
+    },
+    {
+      "id": "tp_066",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "hardcore",
+      "categorie": "profond",
+      "gorgees": 2,
+      "options": [
+        "Une seconde chance avec ton plus grand regret",
+        "Oublier définitivement qu’il a existé"
+      ]
+    },
+    {
+      "id": "tp_067",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "hardcore",
+      "categorie": "amis",
+      "gorgees": 2,
+      "options": [
+        "Devoir choisir entre deux de tes amis ici",
+        "Les perdre tous les deux"
+      ]
+    },
+    {
+      "id": "tp_068",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "hardcore",
+      "categorie": "gene",
+      "gorgees": 2,
+      "options": [
+        "Que ta vie soit diffusée en direct pendant un mois",
+        "Que tes pensées le soient pendant une heure"
+      ]
+    },
+    {
+      "id": "tp_069",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "hardcore",
+      "categorie": "amour",
+      "gorgees": 2,
+      "options": [
+        "Découvrir que tu as été trompé depuis le début",
+        "Découvrir que tout le monde le savait"
+      ]
+    },
+    {
+      "id": "tp_070",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "hardcore",
+      "categorie": "profond",
+      "gorgees": 2,
+      "options": [
+        "Ne plus jamais ressentir d’amour",
+        "Ne plus jamais ressentir d’amitié"
+      ]
+    },
+    {
+      "id": "tp_071",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "hardcore",
+      "categorie": "amis",
+      "gorgees": 2,
+      "options": [
+        "Avouer que tu as menti à quelqu’un ici ce soir",
+        "Boire jusqu’à la fin de la partie"
+      ]
+    },
+    {
+      "id": "tp_072",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Que ton ex raconte vos nuits au groupe",
+        "Que le groupe lise tes messages les plus osés"
+      ]
+    },
+    {
+      "id": "tp_073",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Ne plus jamais faire l’amour",
+        "Ne plus jamais embrasser"
+      ]
+    },
+    {
+      "id": "tp_074",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Une nuit parfaite sans lendemain",
+        "Une relation tiède mais durable"
+      ]
+    },
+    {
+      "id": "tp_075",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Que ton partenaire connaisse tous tes fantasmes",
+        "Connaître tous les siens"
+      ]
+    },
+    {
+      "id": "tp_076",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Coucher avec quelqu’un d’ici",
+        "Que quelqu’un d’ici sache tout de ta vie intime"
+      ]
+    },
+    {
+      "id": "tp_077",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Ne faire l’amour qu’une fois par an, mais parfaitement",
+        "Chaque semaine, mais sans passion"
+      ]
+    },
+    {
+      "id": "tp_078",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Que tes parents découvrent ton historique",
+        "Que ton patron découvre tes photos"
+      ]
+    },
+    {
+      "id": "tp_079",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Révéler ton nombre exact de partenaires",
+        "Révéler le pire d’entre eux"
+      ]
+    },
+    {
+      "id": "tp_080",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Embrasser la personne à ta gauche",
+        "Boire le triple pendant tout le reste de la partie"
+      ]
+    },
+    {
+      "id": "tp_081",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Que ton fantasme se réalise mais que tout le monde le sache",
+        "Qu’il reste secret pour toujours"
+      ]
+    },
+    {
+      "id": "tp_082",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Avoir une aventure sans jamais être découvert",
+        "Rester fidèle mais toujours y penser"
+      ]
+    },
+    {
+      "id": "tp_083",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Décrire ta dernière fois en détail",
+        "Laisser quelqu’un d’ici la décrire à ta place"
+      ]
+    },
+    {
+      "id": "tp_084",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Un partenaire très attirant mais froid",
+        "Un partenaire ordinaire mais passionné"
+      ]
+    },
+    {
+      "id": "tp_085",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Que ton plus grand tabou soit révélé ici",
+        "L’essayer une seule fois dans ta vie"
+      ]
+    },
+    {
+      "id": "tp_086",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Dormir avec quelqu’un sans rien faire",
+        "Faire quelque chose sans jamais dormir ensemble"
+      ]
+    },
+        {
+      "id": "tp_087",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Que ton partenaire raconte vos nuits au groupe",
+        "Que le groupe lise tes messages les plus osés"
+      ]
+    },
+    {
+      "id": "tp_088",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Ne plus jamais faire l’amour",
+        "Ne plus jamais embrasser"
+      ]
+    },
+    {
+      "id": "tp_089",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Une nuit parfaite sans lendemain",
+        "Une relation tiède mais durable"
+      ]
+    },
+    {
+      "id": "tp_090",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Que ton partenaire connaisse tous tes fantasmes",
+        "Connaître tous les siens"
+      ]
+    },
+    {
+      "id": "tp_091",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Coucher avec quelqu’un d’ici",
+        "Que quelqu’un d’ici sache tout de ta vie intime"
+      ]
+    },
+    {
+      "id": "tp_092",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Ne faire l’amour qu’une fois par an, mais parfaitement",
+        "Chaque semaine, mais sans passion"
+      ]
+    },
+    {
+      "id": "tp_093",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Que tes parents découvrent ton historique",
+        "Que ton patron découvre tes photos"
+      ]
+    },
+    {
+      "id": "tp_094",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Révéler ton nombre exact de partenaires",
+        "Révéler le pire d’entre eux"
+      ]
+    },
+    {
+      "id": "tp_095",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Embrasser la personne à ta gauche",
+        "Boire le triple pendant tout le reste de la partie"
+      ]
+    },
+    {
+      "id": "tp_096",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Que ton fantasme se réalise mais que tout le monde le sache",
+        "Qu’il reste secret pour toujours"
+      ]
+    },
+    {
+      "id": "tp_097",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Avoir une aventure sans jamais être découvert",
+        "Rester fidèle mais toujours y penser"
+      ]
+    },
+    {
+      "id": "tp_098",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Décrire ta dernière fois en détail",
+        "Laisser quelqu’un d’ici la décrire à ta place"
+      ]
+    },
+    {
+      "id": "tp_099",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Un partenaire très attirant mais froid",
+        "Un partenaire ordinaire mais passionné"
+      ]
+    },
+    {
+      "id": "tp_100",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Que ton plus grand tabou soit révélé ici",
+        "L’essayer une seule fois dans ta vie"
+      ]
+    },
+    {
+      "id": "tp_101",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Dormir avec quelqu’un sans rien faire",
+        "Faire quelque chose sans jamais dormir ensemble"
+      ]
+    },
+    {
+      "id": "tp_102",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Que ton partenaire voie tous tes messages",
+        "Voir tous les siens"
+      ]
+    },
+    {
+      "id": "tp_103",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Une nuit à trois avec deux inconnus",
+        "Une nuit à trois avec deux amis"
+      ]
+    },
+    {
+      "id": "tp_104",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Avoir un fantasme exaucé mais sans le souvenir",
+        "Un souvenir parfait sans jamais le réaliser"
+      ]
+    },
+    {
+      "id": "tp_105",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Que tout le monde sache que tu es attiré par quelqu’un ici",
+        "Ne jamais lui dire et le regretter"
+      ]
+    },
+    {
+      "id": "tp_106",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Un plan sans émotion mais torride",
+        "De l’amour sans sexe"
+      ]
+    },
+    {
+      "id": "tp_107",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Embrasser la première personne qui arrive",
+        "Boire cul sec trois fois de suite"
+      ]
+    },
+    {
+      "id": "tp_108",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Que ton partenaire te surprenne en pleine action",
+        "Le surprendre en pleine action"
+      ]
+    },
+    {
+      "id": "tp_109",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Faire l’amour dans un endroit interdit mais grisant",
+        "Dans un lit confortable pour toujours"
+      ]
+    },
+    {
+      "id": "tp_110",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Un partenaire expérimenté mais brusque",
+        "Un partenaire maladroit mais tendre"
+      ]
+    },
+    {
+      "id": "tp_111",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Être le plus expérimenté de la pièce",
+        "Que ton partenaire le soit pour deux"
+      ]
+    },
+    {
+      "id": "tp_112",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Que ton ex voie à quoi tu ressembles maintenant",
+        "Que ton crush voie ton historique"
+      ]
+    },
+    {
+      "id": "tp_113",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Faire l’amour avec ton premier amour à nouveau",
+        "Une nuit avec la personne qui te plaît le plus ici"
+      ]
+    },
+    {
+      "id": "tp_114",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Ne plus jamais avoir de fantasme",
+        "Ne plus jamais pouvoir les réaliser"
+      ]
+    },
+    {
+      "id": "tp_115",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Que ta vie sexuelle soit publique",
+        "Que tes messages privés le soient"
+      ]
+    },
+    {
+      "id": "tp_116",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Une nuit parfaite mais sans souvenir",
+        "Un souvenir brûlant mais pas de nuit"
+      ]
+    },
+    {
+      "id": "tp_117",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Embrasser la personne en face",
+        "Que la personne en face t’embrasse"
+      ]
+    },
+    {
+      "id": "tp_118",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Que ton partenaire lise tes pensées au lit",
+        "Lire les siennes"
+      ]
+    },
+    {
+      "id": "tp_119",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Faire l’amour dans l’eau",
+        "Faire l’amour dans un avion"
+      ]
+    },
+    {
+      "id": "tp_120",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Un fantasme exaucé à moitié",
+        "Aucun fantasme exaucé"
+      ]
+    },
+    {
+      "id": "tp_121",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Que tout le monde connaisse ton plus grand secret",
+        "Que personne ne te croie jamais"
+      ]
+    },
+    {
+      "id": "tp_122",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Un partenaire qui te connaît par cœur",
+        "Un partenaire qui te surprend toujours"
+      ]
+    },
+    {
+      "id": "tp_123",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Avoir un coup de foudre ici",
+        "Que quelqu’un ait un coup de foudre pour toi"
+      ]
+    },
+    {
+      "id": "tp_124",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Faire un strip-tease au groupe",
+        "Boire le triple pendant la prochaine heure"
+      ]
+    },
+    {
+      "id": "tp_125",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Que ta vie sexuelle soit filmée",
+        "Qu’elle soit racontée partout"
+      ]
+    },
+    {
+      "id": "tp_126",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Être marié mais célibataire d’esprit",
+        "Célibataire mais fidèle d’esprit"
+      ]
+    },
+    {
+      "id": "tp_127",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Un amant parfait mais qui ne parle jamais",
+        "Un amant moyen mais drôle"
+      ]
+    },
+    {
+      "id": "tp_128",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Une nuit avec ton crush actuel",
+        "Une nuit avec un fantasme de jeunesse"
+      ]
+    },
+    {
+      "id": "tp_129",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Ne plus jamais ressentir de désir",
+        "Ne plus jamais être désiré"
+      ]
+    },
+    {
+      "id": "tp_130",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Un fantasme réalisé mais une seule fois",
+        "Un fantasme jamais réalisé mais toujours désiré"
+      ]
+    },
+    {
+      "id": "tp_131",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Révéler ton fantasme le plus soft",
+        "Taire ton fantasme le plus hard"
+      ]
+    },
+    {
+      "id": "tp_132",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Que ton partenaire te voie dans ton plus grand moment de gêne",
+        "Le voir dans le sien"
+      ]
+    },
+    {
+      "id": "tp_133",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Un mariage sans sexe",
+        "Du sexe sans jamais se marier"
+      ]
+    },
+    {
+      "id": "tp_134",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Embrasser la personne de ton choix dans cette pièce",
+        "Qu’elle t’embrasse sans que tu le demandes"
+      ]
+    },
+    {
+      "id": "tp_135",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Que ton ex te regrette",
+        "Que ton crush te désire"
+      ]
+    },
+    {
+      "id": "tp_136",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Un plan à trois sans lendemain",
+        "Une relation exclusive mais tiède"
+      ]
+    },
+    {
+      "id": "tp_137",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Faire l’amour dans dix pays différents",
+        "Faire l’amour dix fois avec la même personne"
+      ]
+    },
+    {
+      "id": "tp_138",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Un partenaire qui te désire tous les jours",
+        "Un partenaire qui te surprend une fois par mois"
+      ]
+    },
+    {
+      "id": "tp_139",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Être l’objet de tous les fantasmes ici",
+        "Que personne n’ose te fantasmer"
+      ]
+    },
+    {
+      "id": "tp_140",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Pouvoir lire dans les pensées de ton partenaire",
+        "Qu’il puisse lire dans les tiennes"
+      ]
+    },
+    {
+      "id": "tp_141",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Un fantasme réalisé avec quelqu’un d’ici",
+        "Avec un parfait inconnu"
+      ]
+    },
+    {
+      "id": "tp_142",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Une déclaration d’amour en public",
+        "Un message coquin en public"
+      ]
+    },
+    {
+      "id": "tp_143",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Un partenaire qui te fasse rire au lit",
+        "Un partenaire silencieux et intense"
+      ]
+    },
+    {
+      "id": "tp_144",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Que ton partenaire connaisse ton pire côté",
+        "Le cacher pour toujours"
+      ]
+    },
+    {
+      "id": "tp_145",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Une vie sexuelle trépidante mais secrète",
+        "Une vie amoureuse publique mais calme"
+      ]
+    },
+    {
+      "id": "tp_146",
+      "texte": "Tu préfères…",
+      "type": "dilemme",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 2,
+      "options": [
+        "Faire l’amour dans un lieu public",
+        "Boire cul sec le reste de la partie"
+      ]
+    }
+  ]
+}

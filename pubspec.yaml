@@ -1,0 +1,82 @@
+name: cul_sec
+description: "Cul Sec — Jeux de soirée entre amis. Hors-ligne, sans publicité."
+publish_to: "none"
+version: 0.6.0+7
+
+environment:
+  sdk: ">=3.4.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Gestion d'état — un seul store global, pas de sur-ingénierie.
+  provider: ^6.1.2
+
+  # Persistance locale : répertoire de joueurs, réglages, statistiques.
+  shared_preferences: ^2.3.2
+
+  # Animations. 100 % Dart, aucune dépendance native : rien de nouveau
+  # à télécharger côté Gradle.
+  flutter_animate: ^4.5.2
+
+  # Typographies. Télécharge les polices au premier lancement puis les cache.
+  google_fonts: ^6.2.1
+
+  # Avatars photo : capture appareil + sélection dans la galerie.
+  # Plugin officiel de l'équipe Flutter, maintenu activement.
+  image_picker: ^1.1.2
+
+  # Partage de l'image récapitulative de fin de partie.
+  share_plus: ^11.1.0
+
+  # --- Multijoueur local (Wi-Fi / partage de connexion) ---------------
+  # Serveur HTTP + WebSocket embarqué, porté par l'appareil hôte.
+  shelf: ^1.4.1
+  shelf_web_socket: ^2.0.1
+  # Client WebSocket universel (mobile, desktop, web).
+  web_socket_channel: ^3.0.1
+  # Génération du QR code d'appairage.
+  qr_flutter: ^4.1.0
+  # Scan du QR code côté client (mobile, desktop, web).
+  mobile_scanner: ^6.0.11
+  # Récupération de l'adresse IP locale pour la partager dans le QR.
+  network_info_plus: ^6.1.0
+
+  archive: ^4.3.0
+
+  nsd: ^4.0.3
+  firebase_core: ^5.0.0
+  firebase_auth: ^7.0.0
+  google_sign_in: ^7.2.0
+  cloud_firestore: ^7.0.0
+
+  # NOTE — Le Bluetooth sera ajouté plus tard, via
+  # `flutter_nearby_connections_plus` (maintenu, Android + iOS), et non
+  # via `nearby_connections` qui est abandonné et Android-only.
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+  # Génération des icônes de lancement. Outil de build uniquement, jamais
+  # embarqué dans l'APK : à sa place dans dev_dependencies.
+  flutter_launcher_icons: ^0.14.4
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon/icon.png"
+  adaptive_icon_foreground: "assets/icon/foreground.png"
+  adaptive_icon_background: "#0B0A12"
+  remove_alpha_ios: true
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/data/
+    - assets/images/
+    - assets/avatars/
+    - assets/sounds/

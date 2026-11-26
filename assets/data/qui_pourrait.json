@@ -1,0 +1,1047 @@
+{
+  "mode": "qui_pourrait",
+  "version": 1,
+  "maxGorgeesParTour": 3,
+  "entrees": [
+    {
+      "id": "qp_071",
+      "texte": "finir la soirée dans le lit de quelqu’un d’ici ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_072",
+      "texte": "envoyer une photo osée à la mauvaise personne ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_073",
+      "texte": "avoir le plus de conquêtes à son actif ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_074",
+      "texte": "tenter une expérience à plusieurs ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_075",
+      "texte": "coucher avec un collègue de travail ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_076",
+      "texte": "flirter avec tout le monde ici avant la fin de la soirée ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_077",
+      "texte": "avoir le fantasme le plus inavouable ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_078",
+      "texte": "recoucher avec son ex juste une dernière fois ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_079",
+      "texte": "faire l’amour dans un lieu public ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_080",
+      "texte": "être le plus bruyant au lit ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_081",
+      "texte": "avoir testé l’endroit le plus insolite ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_082",
+      "texte": "envoyer un message ambigu à son crush ce soir ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_083",
+      "texte": "avoir déjà trompé quelqu’un ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_084",
+      "texte": "mentir sur son nombre de partenaires ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_085",
+      "texte": "avoir simulé plus d’une fois ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_086",
+      "texte": "fantasmer sur quelqu’un présent dans la pièce ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_087",
+      "texte": "avoir déjà eu un coup de foudre au travail ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_088",
+      "texte": "séduire pour obtenir quelque chose ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_089",
+      "texte": "avoir déjà couché avec un ami ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_090",
+      "texte": "avoir le plus gros appétit sexuel ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_091",
+      "texte": "cacher une relation à tout le monde ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_092",
+      "texte": "avoir un fantasme avec quelqu’un présent ce soir ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_093",
+      "texte": "avoir déjà fait l’amour dans une voiture ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_094",
+      "texte": "envoyer le premier message après une nuit ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_095",
+      "texte": "avoir le plus de mal à résister à la tentation ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_096",
+      "texte": "avoir déjà fait semblant de dormir pour éviter l’intimité ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_097",
+      "texte": "avoir un crush secret ici ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_098",
+      "texte": "avoir déjà embrassé quelqu’un du même groupe d’amis ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_099",
+      "texte": "avoir le plus de regrets au lit ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_100",
+      "texte": "cacher un fantasme refoulé ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_101",
+      "texte": "avoir déjà trompé sans culpabiliser ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_102",
+      "texte": "avoir eu une relation secrète au travail ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_103",
+      "texte": "avoir déjà envoyé un message osé au mauvais destinataire ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_104",
+      "texte": "avoir le plus de mal à dire non ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_105",
+      "texte": "avoir déjà couché pour se venger ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_106",
+      "texte": "avoir le plus gros fantasme refoulé ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_107",
+      "texte": "se réveiller demain matin avec quelqu’un de cette pièce ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_108",
+      "texte": "avoir déjà utilisé une appli de rencontre pour un plan ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_109",
+      "texte": "avoir le plus de facilité à séduire ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_110",
+      "texte": "avoir déjà fait l’amour dans un endroit interdit ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_111",
+      "texte": "avoir le plus de mal à résister à son ex ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_112",
+      "texte": "avoir déjà eu une aventure d’un soir ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_113",
+      "texte": "avoir déjà joué avec les sentiments de quelqu’un ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_114",
+      "texte": "avoir le plus gros crush secret ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_115",
+      "texte": "avoir le plus tendance à flirter pour le plaisir ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_116",
+      "texte": "avoir déjà eu un fantasme avec un ami proche ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_117",
+      "texte": "avoir le plus de mal à résister aux avances ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_118",
+      "texte": "avoir déjà eu une relation cachée de tous ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_119",
+      "texte": "avoir le plus de mal à s’engager ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_120",
+      "texte": "avoir le plus gros fantasme inavoué ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_121",
+      "texte": "avoir déjà couché avec quelqu’un par défi ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_122",
+      "texte": "avoir le plus de mal à résister à l’envie de tromper ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_123",
+      "texte": "avoir déjà fait du mal par désir ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_124",
+      "texte": "avoir le plus gros fantasme de groupe ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_125",
+      "texte": "avoir le plus de facilité à cacher ses sentiments ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_126",
+      "texte": "avoir déjà menti sur ses sentiments ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_127",
+      "texte": "avoir déjà eu envie de quelqu’un d’interdit ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_128",
+      "texte": "avoir le plus de mal à résister à la tentation ce soir ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_129",
+      "texte": "avoir le plus gros secret amoureux ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_130",
+      "texte": "avoir le plus de mal à résister à quelqu’un ici ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+        {
+      "id": "qp_001",
+      "texte": "se perdre dans son propre quartier ?",
+      "type": "statement",
+      "intensite": "soft",
+      "categorie": "general",
+      "gorgees": 1
+    },
+    {
+      "id": "qp_002",
+      "texte": "devenir célèbre pour une raison complètement absurde ?",
+      "type": "statement",
+      "intensite": "soft",
+      "categorie": "fete",
+      "gorgees": 1
+    },
+    {
+      "id": "qp_003",
+      "texte": "survivre le moins longtemps sur une île déserte ?",
+      "type": "statement",
+      "intensite": "soft",
+      "categorie": "general",
+      "gorgees": 1
+    },
+    {
+      "id": "qp_004",
+      "texte": "oublier son propre anniversaire ?",
+      "type": "statement",
+      "intensite": "soft",
+      "categorie": "gene",
+      "gorgees": 1
+    },
+    {
+      "id": "qp_005",
+      "texte": "adopter dix chats sur un coup de tête ?",
+      "type": "statement",
+      "intensite": "soft",
+      "categorie": "general",
+      "gorgees": 1
+    },
+    {
+      "id": "qp_006",
+      "texte": "rire à un moment où il ne faut surtout pas rire ?",
+      "type": "statement",
+      "intensite": "soft",
+      "categorie": "gene",
+      "gorgees": 1
+    },
+    {
+      "id": "qp_007",
+      "texte": "finir candidat d’une émission de téléréalité ?",
+      "type": "statement",
+      "intensite": "soft",
+      "categorie": "fete",
+      "gorgees": 1
+    },
+    {
+      "id": "qp_008",
+      "texte": "manger une pizza entière tout seul, sans aucune honte ?",
+      "type": "statement",
+      "intensite": "soft",
+      "categorie": "general",
+      "gorgees": 1
+    },
+    {
+      "id": "qp_009",
+      "texte": "se faire arnaquer par un vendeur au téléphone ?",
+      "type": "statement",
+      "intensite": "soft",
+      "categorie": "general",
+      "gorgees": 1
+    },
+    {
+      "id": "qp_010",
+      "texte": "organiser la meilleure soirée de l’année ?",
+      "type": "statement",
+      "intensite": "soft",
+      "categorie": "fete",
+      "gorgees": 1
+    },
+    {
+      "id": "qp_011",
+      "texte": "s’endormir pendant son propre mariage ?",
+      "type": "statement",
+      "intensite": "soft",
+      "categorie": "gene",
+      "gorgees": 1
+    },
+    {
+      "id": "qp_012",
+      "texte": "devenir millionnaire… et tout dépenser en un mois ?",
+      "type": "statement",
+      "intensite": "soft",
+      "categorie": "general",
+      "gorgees": 1
+    },
+    {
+      "id": "qp_013",
+      "texte": "se lancer dans un karaoké sans qu’on lui demande ?",
+      "type": "statement",
+      "intensite": "soft",
+      "categorie": "fete",
+      "gorgees": 1
+    },
+    {
+      "id": "qp_014",
+      "texte": "perdre ses clés trois fois dans la même journée ?",
+      "type": "statement",
+      "intensite": "soft",
+      "categorie": "gene",
+      "gorgees": 1
+    },
+    {
+      "id": "qp_015",
+      "texte": "répondre « vous aussi » au serveur qui dit « bon appétit » ?",
+      "type": "statement",
+      "intensite": "soft",
+      "categorie": "gene",
+      "gorgees": 1
+    },
+    {
+      "id": "qp_016",
+      "texte": "être le premier à partir d’une soirée ?",
+      "type": "statement",
+      "intensite": "soft",
+      "categorie": "amis",
+      "gorgees": 1
+    },
+    {
+      "id": "qp_017",
+      "texte": "être le dernier à partir d’une soirée ?",
+      "type": "statement",
+      "intensite": "soft",
+      "categorie": "fete",
+      "gorgees": 1
+    },
+    {
+      "id": "qp_018",
+      "texte": "garder un secret pendant dix ans ?",
+      "type": "statement",
+      "intensite": "soft",
+      "categorie": "amis",
+      "gorgees": 1
+    },
+    {
+      "id": "qp_019",
+      "texte": "appeler un ami à 3 h du matin pour une broutille ?",
+      "type": "statement",
+      "intensite": "soft",
+      "categorie": "amis",
+      "gorgees": 1
+    },
+    {
+      "id": "qp_020",
+      "texte": "convaincre n’importe qui de n’importe quoi ?",
+      "type": "statement",
+      "intensite": "soft",
+      "categorie": "amis",
+      "gorgees": 1
+    },
+    {
+      "id": "qp_021",
+      "texte": "pleurer devant une publicité ?",
+      "type": "statement",
+      "intensite": "soft",
+      "categorie": "gene",
+      "gorgees": 1
+    },
+    {
+      "id": "qp_022",
+      "texte": "parler à ses plantes tous les matins ?",
+      "type": "statement",
+      "intensite": "soft",
+      "categorie": "general",
+      "gorgees": 1
+    },
+    {
+      "id": "qp_023",
+      "texte": "devenir le prof préféré de toute une école ?",
+      "type": "statement",
+      "intensite": "soft",
+      "categorie": "amis",
+      "gorgees": 1
+    },
+    {
+      "id": "qp_024",
+      "texte": "se battre avec un pigeon pour un sandwich ?",
+      "type": "statement",
+      "intensite": "soft",
+      "categorie": "general",
+      "gorgees": 1
+    },
+    {
+      "id": "qp_025",
+      "texte": "danser sur la table avant minuit ?",
+      "type": "statement",
+      "intensite": "soft",
+      "categorie": "fete",
+      "gorgees": 1
+    },
+    {
+      "id": "qp_026",
+      "texte": "envoyer un message à son ex ce soir ?",
+      "type": "statement",
+      "intensite": "normal",
+      "categorie": "amour",
+      "gorgees": 2
+    },
+    {
+      "id": "qp_027",
+      "texte": "tomber amoureux en vacances et tout plaquer ?",
+      "type": "statement",
+      "intensite": "normal",
+      "categorie": "amour",
+      "gorgees": 2
+    },
+    {
+      "id": "qp_028",
+      "texte": "mentir sans jamais se faire démasquer ?",
+      "type": "statement",
+      "intensite": "normal",
+      "categorie": "gene",
+      "gorgees": 2
+    },
+    {
+      "id": "qp_029",
+      "texte": "stalker un crush pendant des heures sans se lasser ?",
+      "type": "statement",
+      "intensite": "normal",
+      "categorie": "amour",
+      "gorgees": 2
+    },
+    {
+      "id": "qp_030",
+      "texte": "se marier en premier dans ce groupe ?",
+      "type": "statement",
+      "intensite": "normal",
+      "categorie": "amour",
+      "gorgees": 2
+    },
+    {
+      "id": "qp_031",
+      "texte": "oublier le prénom de la personne avec qui il sort ?",
+      "type": "statement",
+      "intensite": "normal",
+      "categorie": "amour",
+      "gorgees": 2
+    },
+    {
+      "id": "qp_032",
+      "texte": "faire une déclaration d’amour en public ?",
+      "type": "statement",
+      "intensite": "normal",
+      "categorie": "amour",
+      "gorgees": 2
+    },
+    {
+      "id": "qp_033",
+      "texte": "se faire recaler à l’entrée d’une boîte ?",
+      "type": "statement",
+      "intensite": "normal",
+      "categorie": "fete",
+      "gorgees": 2
+    },
+    {
+      "id": "qp_034",
+      "texte": "dépenser tout son salaire en un seul week-end ?",
+      "type": "statement",
+      "intensite": "normal",
+      "categorie": "general",
+      "gorgees": 2
+    },
+    {
+      "id": "qp_035",
+      "texte": "se réveiller demain sans aucun souvenir de cette soirée ?",
+      "type": "statement",
+      "intensite": "normal",
+      "categorie": "fete",
+      "gorgees": 2
+    },
+    {
+      "id": "qp_036",
+      "texte": "ghoster quelqu’un après un super premier rendez-vous ?",
+      "type": "statement",
+      "intensite": "normal",
+      "categorie": "amour",
+      "gorgees": 2
+    },
+    {
+      "id": "qp_037",
+      "texte": "avoir un compte secret sur les réseaux ?",
+      "type": "statement",
+      "intensite": "normal",
+      "categorie": "gene",
+      "gorgees": 2
+    },
+    {
+      "id": "qp_038",
+      "texte": "garder en capture d’écran une conversation gênante ?",
+      "type": "statement",
+      "intensite": "normal",
+      "categorie": "gene",
+      "gorgees": 2
+    },
+    {
+      "id": "qp_039",
+      "texte": "inventer une excuse pour ne pas venir à une soirée ?",
+      "type": "statement",
+      "intensite": "normal",
+      "categorie": "amis",
+      "gorgees": 2
+    },
+    {
+      "id": "qp_040",
+      "texte": "se disputer avec un inconnu sur Internet ?",
+      "type": "statement",
+      "intensite": "normal",
+      "categorie": "general",
+      "gorgees": 2
+    },
+    {
+      "id": "qp_041",
+      "texte": "démissionner sur un coup de tête ?",
+      "type": "statement",
+      "intensite": "normal",
+      "categorie": "profond",
+      "gorgees": 2
+    },
+    {
+      "id": "qp_042",
+      "texte": "craquer pour l’ex d’un ami ?",
+      "type": "statement",
+      "intensite": "normal",
+      "categorie": "amour",
+      "gorgees": 2
+    },
+    {
+      "id": "qp_043",
+      "texte": "mentir sur son âge sur une appli de rencontre ?",
+      "type": "statement",
+      "intensite": "normal",
+      "categorie": "amour",
+      "gorgees": 2
+    },
+    {
+      "id": "qp_044",
+      "texte": "lire les messages des autres par-dessus leur épaule ?",
+      "type": "statement",
+      "intensite": "normal",
+      "categorie": "gene",
+      "gorgees": 2
+    },
+    {
+      "id": "qp_045",
+      "texte": "tout raconter à sa mère dès demain matin ?",
+      "type": "statement",
+      "intensite": "normal",
+      "categorie": "amis",
+      "gorgees": 2
+    },
+    {
+      "id": "qp_046",
+      "texte": "trahir un secret du groupe pour un bon potin ?",
+      "type": "statement",
+      "intensite": "hardcore",
+      "categorie": "amis",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_047",
+      "texte": "tromper sans jamais culpabiliser ?",
+      "type": "statement",
+      "intensite": "hardcore",
+      "categorie": "amour",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_048",
+      "texte": "disparaître du jour au lendemain sans prévenir personne ?",
+      "type": "statement",
+      "intensite": "hardcore",
+      "categorie": "profond",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_049",
+      "texte": "dire du mal de quelqu’un ici dès qu’il a le dos tourné ?",
+      "type": "statement",
+      "intensite": "hardcore",
+      "categorie": "amis",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_050",
+      "texte": "revenir avec son ex après une très mauvaise rupture ?",
+      "type": "statement",
+      "intensite": "hardcore",
+      "categorie": "amour",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_051",
+      "texte": "mentir sur son CV pour décrocher un poste ?",
+      "type": "statement",
+      "intensite": "hardcore",
+      "categorie": "profond",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_052",
+      "texte": "couper les ponts avec quelqu’un pour une histoire d’argent ?",
+      "type": "statement",
+      "intensite": "hardcore",
+      "categorie": "profond",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_053",
+      "texte": "sortir avec deux personnes en même temps ?",
+      "type": "statement",
+      "intensite": "hardcore",
+      "categorie": "amour",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_054",
+      "texte": "cacher une relation pendant des mois à tout le monde ?",
+      "type": "statement",
+      "intensite": "hardcore",
+      "categorie": "amour",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_055",
+      "texte": "se fâcher pour de bon avec quelqu’un de ce groupe ?",
+      "type": "statement",
+      "intensite": "hardcore",
+      "categorie": "amis",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_056",
+      "texte": "faire semblant d’aller bien alors que tout va mal ?",
+      "type": "statement",
+      "intensite": "hardcore",
+      "categorie": "profond",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_057",
+      "texte": "garder rancune le plus longtemps ?",
+      "type": "statement",
+      "intensite": "hardcore",
+      "categorie": "profond",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_058",
+      "texte": "fouiller le téléphone de son partenaire ?",
+      "type": "statement",
+      "intensite": "hardcore",
+      "categorie": "amour",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_059",
+      "texte": "finir la soirée dans le lit de quelqu’un d’ici ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_060",
+      "texte": "avoir le plus de conquêtes à son actif ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_061",
+      "texte": "envoyer une photo osée à la mauvaise personne ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_062",
+      "texte": "avoir un plan d’un soir et ne jamais rappeler ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_063",
+      "texte": "tenter l’expérience à plusieurs ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_064",
+      "texte": "se faire surprendre en pleine action ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_065",
+      "texte": "avoir le fantasme le plus inavouable ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_066",
+      "texte": "coucher avec un collègue ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_067",
+      "texte": "flirter avec tout le monde ici avant la fin de la soirée ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_068",
+      "texte": "être le plus bruyant au lit ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_069",
+      "texte": "recoucher avec son ex « juste une dernière fois » ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "qp_070",
+      "texte": "avoir testé les endroits les plus insolites ?",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    }
+  ]
+}

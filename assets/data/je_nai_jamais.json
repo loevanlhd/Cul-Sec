@@ -1,0 +1,1407 @@
+{
+  "mode": "je_nai_jamais",
+  "version": 6,
+  "maxGorgeesParTour": 3,
+  "entrees": [
+    {
+      "id": "jnj_116",
+      "texte": "envoyé une photo de moi à quelqu’un que je connaissais à peine.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_117",
+      "texte": "couché avec quelqu’un rencontré le soir même.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_118",
+      "texte": "eu un coup de foudre dans un lieu public.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_119",
+      "texte": "fait l’amour dans un lieu public.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_120",
+      "texte": "fantasmé sur quelqu’un présent dans cette pièce.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_121",
+      "texte": "utilisé une application de rencontre.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_122",
+      "texte": "eu une aventure d’un soir.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_123",
+      "texte": "menti sur mon nombre de partenaires.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_124",
+      "texte": "envoyé un message osé à la mauvaise personne.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "gene",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_125",
+      "texte": "regretté une nuit le lendemain matin.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_126",
+      "texte": "simulé pour que ça se termine plus vite.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_127",
+      "texte": "couché avec quelqu’un que mes amis détestaient.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_128",
+      "texte": "eu un plan qui a duré plus longtemps que prévu.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_129",
+      "texte": "été surpris en pleine action.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_130",
+      "texte": "eu une aventure au travail.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_131",
+      "texte": "couché avec un ex après la rupture.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_132",
+      "texte": "fait l’amour dans un lieu insolite.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_133",
+      "texte": "embrassé quelqu’un en couple.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_134",
+      "texte": "menti sur mon âge pour séduire.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_135",
+      "texte": "envoyé un message ambigu à mon ex.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_136",
+      "texte": "eu une relation cachée à tout le monde.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_137",
+      "texte": "couché avec deux personnes la même semaine.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_138",
+      "texte": "fantasmé sur quelqu’un pendant l’acte avec quelqu’un d’autre.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_139",
+      "texte": "fait l’amour ailleurs que dans un lit.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_140",
+      "texte": "eu un plan à plusieurs.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_141",
+      "texte": "dit un prénom qui n’était pas le bon.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_142",
+      "texte": "eu une aventure de vacances.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_143",
+      "texte": "fait l’amour dans une voiture.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_144",
+      "texte": "couché avec quelqu’un dont j’ai oublié le prénom.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_145",
+      "texte": "été attiré par l’ami ou l’amie de mon partenaire.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_146",
+      "texte": "menti sur mes sentiments pour obtenir quelque chose.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_147",
+      "texte": "eu un fantasme que je n’oserais jamais réaliser.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_148",
+      "texte": "regardé quelqu’un en pensant très fort à autre chose.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_149",
+      "texte": "couché avec quelqu’un plus âgé que moi de dix ans.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_150",
+      "texte": "fait l’amour dans un endroit où c’était interdit.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_151",
+      "texte": "eu envie de quelqu’un dans cette pièce.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_152",
+      "texte": "rompu par message.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_153",
+      "texte": "laissé quelqu’un m’embrasser sans en avoir envie.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_154",
+      "texte": "embrassé quelqu’un pour rendre quelqu’un d’autre jaloux.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_155",
+      "texte": "eu une relation sans jamais l’avouer à personne.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_156",
+      "texte": "fait semblant de dormir pour éviter un moment intime.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_157",
+      "texte": "couché avec quelqu’un juste par ennui.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_158",
+      "texte": "envoyé une photo que je regrette.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_159",
+      "texte": "eu envie de quelqu’un d’interdit.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_160",
+      "texte": "fait l’amour avec quelqu’un rencontré en ligne.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_161",
+      "texte": "menti à mon partenaire sur une sortie.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_162",
+      "texte": "dit à quelqu’un que je l’aimais sans le penser.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_163",
+      "texte": "couché avec quelqu’un sans jamais le rappeler.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_164",
+      "texte": "eu un fantasme avec deux personnes présentes dans cette pièce.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_165",
+      "texte": "embrassé quelqu’un le premier soir.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_166",
+      "texte": "eu une nuit qui a duré plus de quatre heures.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_167",
+      "texte": "fait l’amour dans un endroit où on pouvait nous entendre.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_168",
+      "texte": "regardé quelqu’un en cachette en pensant à autre chose.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_169",
+      "texte": "eu envie de quelqu’un que je n’aurais jamais dû désirer.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_170",
+      "texte": "raconté un fantasme qui n’était pas vraiment le mien.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_171",
+      "texte": "couché avec quelqu’un par défi.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_172",
+      "texte": "fait l’amour sans protection.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_173",
+      "texte": "menti sur l’endroit où j’étais pour passer une nuit ailleurs.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_174",
+      "texte": "eu envie de tester quelque chose que je n’ai jamais osé avouer.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_175",
+      "texte": "couché avec quelqu’un qui était déjà en couple.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+        {
+      "id": "jnj_001",
+      "texte": "chanté à tue-tête tout seul dans ma voiture.",
+      "type": "statement",
+      "intensite": "soft",
+      "categorie": "fete",
+      "gorgees": 1
+    },
+    {
+      "id": "jnj_002",
+      "texte": "fait semblant de reconnaître quelqu’un pour éviter le malaise.",
+      "type": "statement",
+      "intensite": "soft",
+      "categorie": "gene",
+      "gorgees": 1
+    },
+    {
+      "id": "jnj_003",
+      "texte": "mangé quelque chose tombé par terre.",
+      "type": "statement",
+      "intensite": "soft",
+      "categorie": "gene",
+      "gorgees": 1
+    },
+    {
+      "id": "jnj_004",
+      "texte": "dormi pendant un film au cinéma.",
+      "type": "statement",
+      "intensite": "soft",
+      "categorie": "general",
+      "gorgees": 1
+    },
+    {
+      "id": "jnj_005",
+      "texte": "parlé tout seul en croyant que personne n’écoutait.",
+      "type": "statement",
+      "intensite": "soft",
+      "categorie": "gene",
+      "gorgees": 1
+    },
+    {
+      "id": "jnj_006",
+      "texte": "poussé une porte marquée « tirez ».",
+      "type": "statement",
+      "intensite": "soft",
+      "categorie": "gene",
+      "gorgees": 1
+    },
+    {
+      "id": "jnj_007",
+      "texte": "prétendu avoir lu un livre que je n’ai jamais ouvert.",
+      "type": "statement",
+      "intensite": "soft",
+      "categorie": "gene",
+      "gorgees": 1
+    },
+    {
+      "id": "jnj_008",
+      "texte": "pleuré devant un dessin animé.",
+      "type": "statement",
+      "intensite": "soft",
+      "categorie": "general",
+      "gorgees": 1
+    },
+    {
+      "id": "jnj_009",
+      "texte": "oublié le prénom de quelqu’un en pleine conversation.",
+      "type": "statement",
+      "intensite": "soft",
+      "categorie": "gene",
+      "gorgees": 1
+    },
+    {
+      "id": "jnj_010",
+      "texte": "fait semblant de comprendre une blague.",
+      "type": "statement",
+      "intensite": "soft",
+      "categorie": "gene",
+      "gorgees": 1
+    },
+    {
+      "id": "jnj_011",
+      "texte": "répondu à quelqu’un qui ne me parlait pas.",
+      "type": "statement",
+      "intensite": "soft",
+      "categorie": "gene",
+      "gorgees": 1
+    },
+    {
+      "id": "jnj_012",
+      "texte": "mis un vêtement à l’envers toute une journée.",
+      "type": "statement",
+      "intensite": "soft",
+      "categorie": "gene",
+      "gorgees": 1
+    },
+    {
+      "id": "jnj_013",
+      "texte": "dansé seul devant un miroir.",
+      "type": "statement",
+      "intensite": "soft",
+      "categorie": "fete",
+      "gorgees": 1
+    },
+    {
+      "id": "jnj_014",
+      "texte": "regardé une série entière en une seule journée.",
+      "type": "statement",
+      "intensite": "soft",
+      "categorie": "general",
+      "gorgees": 1
+    },
+    {
+      "id": "jnj_015",
+      "texte": "fait semblant d’être occupé pour éviter quelqu’un.",
+      "type": "statement",
+      "intensite": "soft",
+      "categorie": "amis",
+      "gorgees": 1
+    },
+    {
+      "id": "jnj_016",
+      "texte": "cherché mon téléphone alors qu’il était dans ma main.",
+      "type": "statement",
+      "intensite": "soft",
+      "categorie": "gene",
+      "gorgees": 1
+    },
+    {
+      "id": "jnj_017",
+      "texte": "trébuché en public en essayant de faire comme si de rien n’était.",
+      "type": "statement",
+      "intensite": "soft",
+      "categorie": "gene",
+      "gorgees": 1
+    },
+    {
+      "id": "jnj_018",
+      "texte": "mangé un plat entier prévu pour deux personnes.",
+      "type": "statement",
+      "intensite": "soft",
+      "categorie": "general",
+      "gorgees": 1
+    },
+    {
+      "id": "jnj_019",
+      "texte": "commandé la même chose que la personne d’avant, par flemme de choisir.",
+      "type": "statement",
+      "intensite": "soft",
+      "categorie": "general",
+      "gorgees": 1
+    },
+    {
+      "id": "jnj_020",
+      "texte": "fait semblant d’aimer un cadeau.",
+      "type": "statement",
+      "intensite": "soft",
+      "categorie": "gene",
+      "gorgees": 1
+    },
+    {
+      "id": "jnj_021",
+      "texte": "dit « toi aussi » à quelqu’un qui ne m’avait rien souhaité.",
+      "type": "statement",
+      "intensite": "soft",
+      "categorie": "gene",
+      "gorgees": 1
+    },
+    {
+      "id": "jnj_022",
+      "texte": "envoyé un message au mauvais groupe.",
+      "type": "statement",
+      "intensite": "soft",
+      "categorie": "gene",
+      "gorgees": 1
+    },
+    {
+      "id": "jnj_023",
+      "texte": "googlé mon propre nom.",
+      "type": "statement",
+      "intensite": "soft",
+      "categorie": "gene",
+      "gorgees": 1
+    },
+    {
+      "id": "jnj_024",
+      "texte": "dormi avec la lumière allumée par peur.",
+      "type": "statement",
+      "intensite": "soft",
+      "categorie": "general",
+      "gorgees": 1
+    },
+    {
+      "id": "jnj_025",
+      "texte": "changé de trottoir pour éviter quelqu’un.",
+      "type": "statement",
+      "intensite": "soft",
+      "categorie": "amis",
+      "gorgees": 1
+    },
+    {
+      "id": "jnj_026",
+      "texte": "ri à un moment complètement inapproprié.",
+      "type": "statement",
+      "intensite": "soft",
+      "categorie": "gene",
+      "gorgees": 1
+    },
+    {
+      "id": "jnj_027",
+      "texte": "acheté quelque chose juste parce que c’était en promotion.",
+      "type": "statement",
+      "intensite": "soft",
+      "categorie": "general",
+      "gorgees": 1
+    },
+    {
+      "id": "jnj_028",
+      "texte": "fait semblant d’avoir du réseau pour couper une conversation.",
+      "type": "statement",
+      "intensite": "soft",
+      "categorie": "gene",
+      "gorgees": 1
+    },
+    {
+      "id": "jnj_029",
+      "texte": "gardé un vêtement pendant des années sans jamais le porter.",
+      "type": "statement",
+      "intensite": "soft",
+      "categorie": "general",
+      "gorgees": 1
+    },
+    {
+      "id": "jnj_030",
+      "texte": "regardé un tutoriel pour une chose que je savais déjà faire.",
+      "type": "statement",
+      "intensite": "soft",
+      "categorie": "general",
+      "gorgees": 1
+    },
+    {
+      "id": "jnj_031",
+      "texte": "fait semblant d’être malade pour éviter quelque chose.",
+      "type": "statement",
+      "intensite": "normal",
+      "categorie": "gene",
+      "gorgees": 2
+    },
+    {
+      "id": "jnj_032",
+      "texte": "menti sur mon âge.",
+      "type": "statement",
+      "intensite": "normal",
+      "categorie": "gene",
+      "gorgees": 2
+    },
+    {
+      "id": "jnj_033",
+      "texte": "envoyé un message que j’ai regretté le lendemain.",
+      "type": "statement",
+      "intensite": "normal",
+      "categorie": "gene",
+      "gorgees": 2
+    },
+    {
+      "id": "jnj_034",
+      "texte": "stalké quelqu’un sur les réseaux pendant plus d’une heure.",
+      "type": "statement",
+      "intensite": "normal",
+      "categorie": "amour",
+      "gorgees": 2
+    },
+    {
+      "id": "jnj_035",
+      "texte": "fait croire que j’avais compris alors que pas du tout.",
+      "type": "statement",
+      "intensite": "normal",
+      "categorie": "gene",
+      "gorgees": 2
+    },
+    {
+      "id": "jnj_036",
+      "texte": "quitté une soirée sans dire au revoir à personne.",
+      "type": "statement",
+      "intensite": "normal",
+      "categorie": "amis",
+      "gorgees": 2
+    },
+    {
+      "id": "jnj_037",
+      "texte": "oublié l’anniversaire de quelqu’un de très proche.",
+      "type": "statement",
+      "intensite": "normal",
+      "categorie": "amis",
+      "gorgees": 2
+    },
+    {
+      "id": "jnj_038",
+      "texte": "gardé un objet trouvé au lieu de le rendre.",
+      "type": "statement",
+      "intensite": "normal",
+      "categorie": "gene",
+      "gorgees": 2
+    },
+    {
+      "id": "jnj_039",
+      "texte": "annulé un plan à la dernière minute pour rester chez moi.",
+      "type": "statement",
+      "intensite": "normal",
+      "categorie": "amis",
+      "gorgees": 2
+    },
+    {
+      "id": "jnj_040",
+      "texte": "relu une conversation entière pour analyser un seul message.",
+      "type": "statement",
+      "intensite": "normal",
+      "categorie": "amour",
+      "gorgees": 2
+    },
+    {
+      "id": "jnj_041",
+      "texte": "juré que c’était mon dernier verre.",
+      "type": "statement",
+      "intensite": "normal",
+      "categorie": "fete",
+      "gorgees": 2
+    },
+    {
+      "id": "jnj_042",
+      "texte": "liké une photo par accident en remontant un profil.",
+      "type": "statement",
+      "intensite": "normal",
+      "categorie": "amour",
+      "gorgees": 2
+    },
+    {
+      "id": "jnj_043",
+      "texte": "supprimé une story parce qu’elle ne marchait pas.",
+      "type": "statement",
+      "intensite": "normal",
+      "categorie": "gene",
+      "gorgees": 2
+    },
+    {
+      "id": "jnj_044",
+      "texte": "fait semblant d’avoir vu un film pour ne pas passer pour un inculte.",
+      "type": "statement",
+      "intensite": "normal",
+      "categorie": "gene",
+      "gorgees": 2
+    },
+    {
+      "id": "jnj_045",
+      "texte": "menti sur mes sentiments pour protéger quelqu’un.",
+      "type": "statement",
+      "intensite": "normal",
+      "categorie": "amour",
+      "gorgees": 2
+    },
+    {
+      "id": "jnj_046",
+      "texte": "pleuré à cause d’un message.",
+      "type": "statement",
+      "intensite": "normal",
+      "categorie": "amour",
+      "gorgees": 2
+    },
+    {
+      "id": "jnj_047",
+      "texte": "attendu un message toute une soirée.",
+      "type": "statement",
+      "intensite": "normal",
+      "categorie": "amour",
+      "gorgees": 2
+    },
+    {
+      "id": "jnj_048",
+      "texte": "dit du bien de quelqu’un que je ne supporte pas.",
+      "type": "statement",
+      "intensite": "normal",
+      "categorie": "amis",
+      "gorgees": 2
+    },
+    {
+      "id": "jnj_049",
+      "texte": "gardé rancune pendant plus d’un an.",
+      "type": "statement",
+      "intensite": "normal",
+      "categorie": "profond",
+      "gorgees": 2
+    },
+    {
+      "id": "jnj_050",
+      "texte": "fait semblant de dormir pour ne pas parler.",
+      "type": "statement",
+      "intensite": "normal",
+      "categorie": "gene",
+      "gorgees": 2
+    },
+    {
+      "id": "jnj_051",
+      "texte": "cherché les ex de la personne qui me plaisait.",
+      "type": "statement",
+      "intensite": "normal",
+      "categorie": "amour",
+      "gorgees": 2
+    },
+    {
+      "id": "jnj_052",
+      "texte": "inventé une excuse ridicule pour un retard.",
+      "type": "statement",
+      "intensite": "normal",
+      "categorie": "gene",
+      "gorgees": 2
+    },
+    {
+      "id": "jnj_053",
+      "texte": "dépensé plus que de raison pour impressionner quelqu’un.",
+      "type": "statement",
+      "intensite": "normal",
+      "categorie": "amour",
+      "gorgees": 2
+    },
+    {
+      "id": "jnj_054",
+      "texte": "fait semblant d’être d’accord juste pour clore le débat.",
+      "type": "statement",
+      "intensite": "normal",
+      "categorie": "amis",
+      "gorgees": 2
+    },
+    {
+      "id": "jnj_055",
+      "texte": "bu pour me donner du courage avant de parler à quelqu’un.",
+      "type": "statement",
+      "intensite": "normal",
+      "categorie": "amour",
+      "gorgees": 2
+    },
+    {
+      "id": "jnj_056",
+      "texte": "regardé le profil de mon ex récemment.",
+      "type": "statement",
+      "intensite": "normal",
+      "categorie": "amour",
+      "gorgees": 2
+    },
+    {
+      "id": "jnj_057",
+      "texte": "menti sur ce que je faisais de ma soirée.",
+      "type": "statement",
+      "intensite": "normal",
+      "categorie": "gene",
+      "gorgees": 2
+    },
+    {
+      "id": "jnj_058",
+      "texte": "promis quelque chose que je savais ne pas pouvoir tenir.",
+      "type": "statement",
+      "intensite": "normal",
+      "categorie": "profond",
+      "gorgees": 2
+    },
+    {
+      "id": "jnj_059",
+      "texte": "perdu quelque chose qui appartenait à quelqu’un d’autre.",
+      "type": "statement",
+      "intensite": "normal",
+      "categorie": "amis",
+      "gorgees": 2
+    },
+    {
+      "id": "jnj_060",
+      "texte": "dit « je te rappelle » sans jamais rappeler.",
+      "type": "statement",
+      "intensite": "normal",
+      "categorie": "amis",
+      "gorgees": 2
+    },
+    {
+      "id": "jnj_061",
+      "texte": "eu un coup de cœur pour un ami de quelqu’un ici.",
+      "type": "statement",
+      "intensite": "normal",
+      "categorie": "amour",
+      "gorgees": 2
+    },
+    {
+      "id": "jnj_062",
+      "texte": "passé une nuit blanche à cause de quelqu’un.",
+      "type": "statement",
+      "intensite": "normal",
+      "categorie": "amour",
+      "gorgees": 2
+    },
+    {
+      "id": "jnj_063",
+      "texte": "fait semblant d’avoir oublié pour éviter une conversation.",
+      "type": "statement",
+      "intensite": "normal",
+      "categorie": "gene",
+      "gorgees": 2
+    },
+    {
+      "id": "jnj_064",
+      "texte": "lu un message sans y répondre pendant plus de trois jours.",
+      "type": "statement",
+      "intensite": "normal",
+      "categorie": "amis",
+      "gorgees": 2
+    },
+    {
+      "id": "jnj_065",
+      "texte": "dit oui alors que je pensais très fort non.",
+      "type": "statement",
+      "intensite": "normal",
+      "categorie": "profond",
+      "gorgees": 2
+    },
+    {
+      "id": "jnj_066",
+      "texte": "dit du mal de quelqu’un présent dans cette pièce.",
+      "type": "statement",
+      "intensite": "hardcore",
+      "categorie": "amis",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_067",
+      "texte": "gardé un secret que j’avais promis de ne jamais garder.",
+      "type": "statement",
+      "intensite": "hardcore",
+      "categorie": "profond",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_068",
+      "texte": "fouillé dans le téléphone de quelqu’un sans sa permission.",
+      "type": "statement",
+      "intensite": "hardcore",
+      "categorie": "amour",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_069",
+      "texte": "menti pendant une partie de « Je n’ai jamais ».",
+      "type": "statement",
+      "intensite": "hardcore",
+      "categorie": "gene",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_070",
+      "texte": "regretté un tatouage, une coupe ou un piercing.",
+      "type": "statement",
+      "intensite": "hardcore",
+      "categorie": "general",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_071",
+      "texte": "fait une déclaration qui est tombée à l’eau.",
+      "type": "statement",
+      "intensite": "hardcore",
+      "categorie": "amour",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_072",
+      "texte": "menti sur un CV.",
+      "type": "statement",
+      "intensite": "hardcore",
+      "categorie": "profond",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_073",
+      "texte": "trahi la confiance de quelqu’un que j’aimais.",
+      "type": "statement",
+      "intensite": "hardcore",
+      "categorie": "profond",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_074",
+      "texte": "profité de quelqu’un en sachant très bien ce que je faisais.",
+      "type": "statement",
+      "intensite": "hardcore",
+      "categorie": "profond",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_075",
+      "texte": "laissé quelqu’un prendre la faute à ma place.",
+      "type": "statement",
+      "intensite": "hardcore",
+      "categorie": "profond",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_076",
+      "texte": "souhaité l’échec de quelqu’un de mon entourage.",
+      "type": "statement",
+      "intensite": "hardcore",
+      "categorie": "profond",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_077",
+      "texte": "ghosté quelqu’un sans aucune explication.",
+      "type": "statement",
+      "intensite": "hardcore",
+      "categorie": "amour",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_078",
+      "texte": "embrassé quelqu’un en couple.",
+      "type": "statement",
+      "intensite": "hardcore",
+      "categorie": "amour",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_079",
+      "texte": "menti à mon ou ma partenaire sur quelque chose d’important.",
+      "type": "statement",
+      "intensite": "hardcore",
+      "categorie": "amour",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_080",
+      "texte": "volé quelque chose de plus de cinquante euros.",
+      "type": "statement",
+      "intensite": "hardcore",
+      "categorie": "profond",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_081",
+      "texte": "fait semblant d’être triste pour attirer l’attention.",
+      "type": "statement",
+      "intensite": "hardcore",
+      "categorie": "profond",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_082",
+      "texte": "dit « je t’aime » sans le penser.",
+      "type": "statement",
+      "intensite": "hardcore",
+      "categorie": "amour",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_083",
+      "texte": "rompu par message.",
+      "type": "statement",
+      "intensite": "hardcore",
+      "categorie": "amour",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_084",
+      "texte": "détruit une amitié à cause d’une histoire d’amour.",
+      "type": "statement",
+      "intensite": "hardcore",
+      "categorie": "amour",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_085",
+      "texte": "caché une relation à tous mes proches.",
+      "type": "statement",
+      "intensite": "hardcore",
+      "categorie": "amour",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_086",
+      "texte": "pensé à quelqu’un d’autre en étant avec la personne que j’aimais.",
+      "type": "statement",
+      "intensite": "hardcore",
+      "categorie": "amour",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_087",
+      "texte": "saboté quelque chose pour ne pas avoir à le faire.",
+      "type": "statement",
+      "intensite": "hardcore",
+      "categorie": "profond",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_088",
+      "texte": "fait pleurer quelqu’un volontairement.",
+      "type": "statement",
+      "intensite": "hardcore",
+      "categorie": "profond",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_089",
+      "texte": "menti sur mes sentiments pour obtenir quelque chose.",
+      "type": "statement",
+      "intensite": "hardcore",
+      "categorie": "amour",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_090",
+      "texte": "regardé quelqu’un souffrir sans rien faire.",
+      "type": "statement",
+      "intensite": "hardcore",
+      "categorie": "profond",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_091",
+      "texte": "couché avec quelqu’un le soir même de la rencontre.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_092",
+      "texte": "envoyé une photo que je n’aurais pas dû envoyer.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_093",
+      "texte": "fait l’amour ailleurs que dans un lit.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_094",
+      "texte": "simulé pour que ça se termine plus vite.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_095",
+      "texte": "fantasmé sur quelqu’un présent dans cette pièce.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_096",
+      "texte": "eu une aventure que personne ici ne connaît.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_097",
+      "texte": "utilisé un jouet avec un partenaire.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_098",
+      "texte": "dit un prénom qui n’était pas le bon.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_099",
+      "texte": "couché avec quelqu’un dont j’ai oublié le prénom.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_100",
+      "texte": "eu un plan qui a duré plus longtemps que prévu.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_101",
+      "texte": "été surpris en pleine action.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_102",
+      "texte": "fait l’amour dans un lieu public.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_103",
+      "texte": "couché avec quelqu’un uniquement par ennui.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_104",
+      "texte": "eu une expérience à plus de deux.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_105",
+      "texte": "menti sur mon nombre de partenaires.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_106",
+      "texte": "envoyé un message osé à la mauvaise personne.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_107",
+      "texte": "couché avec un ou une ex après la rupture.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_108",
+      "texte": "eu une aventure avec un collègue.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_109",
+      "texte": "filmé ou photographié un moment intime.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_110",
+      "texte": "couché avec quelqu’un que mes amis détestaient.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_111",
+      "texte": "eu un coup de foudre purement physique.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_112",
+      "texte": "fait semblant de dormir pour éviter un moment intime.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_113",
+      "texte": "été attiré par quelqu’un d’interdit.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_114",
+      "texte": "regretté une nuit dès le lendemain matin.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    },
+    {
+      "id": "jnj_115",
+      "texte": "dit non alors que j’avais très envie de dire oui.",
+      "type": "statement",
+      "intensite": "adulte",
+      "categorie": "hot",
+      "gorgees": 3
+    }
+  ]
+}
